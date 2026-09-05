@@ -1,0 +1,429 @@
+[
+  {
+    "id": "uk-001",
+    "category": "The UK today",
+    "question": "How many countries make up the United Kingdom?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "answer": 2,
+    "explanation": "England, Scotland, Wales and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales."
+  },
+  {
+    "id": "uk-002",
+    "category": "The UK today",
+    "question": "Which of these is a Crown Dependency rather than part of the UK?",
+    "choices": ["Northern Ireland", "The Isle of Man", "Cornwall", "Anglesey"],
+    "answer": 1,
+    "explanation": "The Isle of Man and the Channel Islands are Crown Dependencies. They have their own governments and are not part of the UK."
+  },
+  {
+    "id": "uk-003",
+    "category": "The UK today",
+    "question": "What is the capital city of Wales?",
+    "choices": ["Swansea", "Bangor", "Newport", "Cardiff"],
+    "answer": 3,
+    "explanation": "Cardiff. The Senedd, the Welsh Parliament, sits in Cardiff Bay."
+  },
+  {
+    "id": "uk-004",
+    "category": "The UK today",
+    "question": "What is the capital city of Scotland?",
+    "choices": ["Glasgow", "Edinburgh", "Aberdeen", "Dundee"],
+    "answer": 1,
+    "explanation": "Edinburgh, though Glasgow is the larger city."
+  },
+  {
+    "id": "uk-005",
+    "category": "The UK today",
+    "question": "Ben Nevis, the highest mountain in the UK, is in which country?",
+    "choices": ["Wales", "England", "Scotland", "Northern Ireland"],
+    "answer": 2,
+    "explanation": "Ben Nevis is in the Scottish Highlands, near Fort William."
+  },
+  {
+    "id": "uk-006",
+    "category": "Traditions and culture",
+    "question": "When is St George's Day, the patron saint's day of England?",
+    "choices": ["1 March", "17 March", "23 April", "30 November"],
+    "answer": 2,
+    "explanation": "23 April. The other dates belong to St David (Wales, 1 March), St Patrick (Northern Ireland, 17 March) and St Andrew (Scotland, 30 November)."
+  },
+  {
+    "id": "uk-007",
+    "category": "Traditions and culture",
+    "question": "Which patron saint's day falls on 1 March?",
+    "choices": ["St Andrew", "St David", "St Patrick", "St George"],
+    "answer": 1,
+    "explanation": "St David is the patron saint of Wales, celebrated on 1 March."
+  },
+  {
+    "id": "uk-008",
+    "category": "Traditions and culture",
+    "question": "The Union Flag combines the crosses of which three saints?",
+    "choices": [
+      "St George, St Andrew and St David",
+      "St George, St Andrew and St Patrick",
+      "St David, St Patrick and St Andrew",
+      "St George, St David and St Patrick"
+    ],
+    "answer": 1,
+    "explanation": "St George (England), St Andrew (Scotland) and St Patrick (Ireland). Wales is not represented on the flag, because it was already united with England when the flag was created."
+  },
+  {
+    "id": "uk-009",
+    "category": "Traditions and culture",
+    "question": "What is celebrated on 5 November?",
+    "choices": [
+      "The end of the harvest",
+      "Bonfire Night, marking the failure of the Gunpowder Plot",
+      "The Queen's official birthday",
+      "The signing of Magna Carta"
+    ],
+    "answer": 1,
+    "explanation": "In 1605 Guy Fawkes and other conspirators plotted to blow up Parliament. The plot failed, and bonfires and fireworks still mark the date."
+  },
+  {
+    "id": "uk-010",
+    "category": "Traditions and culture",
+    "question": "What does wearing a poppy on 11 November commemorate?",
+    "choices": [
+      "The coronation of the monarch",
+      "The founding of the NHS",
+      "Those who died in wars",
+      "The end of rationing"
+    ],
+    "answer": 2,
+    "explanation": "Remembrance Day marks the end of the First World War in 1918. The poppy remembers those who died in that and later conflicts."
+  },
+  {
+    "id": "uk-011",
+    "category": "Traditions and culture",
+    "question": "Robert Burns, whose birthday is marked with a supper each January, was a poet from which country?",
+    "choices": ["Wales", "Ireland", "England", "Scotland"],
+    "answer": 3,
+    "explanation": "Burns was Scotland's national poet. Burns Night is held on 25 January, and his song 'Auld Lang Syne' is sung at New Year."
+  },
+  {
+    "id": "uk-012",
+    "category": "Traditions and culture",
+    "question": "The Eisteddfod is a festival of music and poetry associated with which part of the UK?",
+    "choices": ["Wales", "Cornwall", "Northern Ireland", "The Scottish Highlands"],
+    "answer": 0,
+    "explanation": "The Eisteddfod is a Welsh festival with roots going back centuries, held largely in the Welsh language."
+  },
+  {
+    "id": "uk-013",
+    "category": "Traditions and culture",
+    "question": "In which town was William Shakespeare born?",
+    "choices": ["Canterbury", "Stratford-upon-Avon", "Oxford", "York"],
+    "answer": 1,
+    "explanation": "Shakespeare was born in Stratford-upon-Avon in Warwickshire in 1564 and later worked in London."
+  },
+  {
+    "id": "uk-014",
+    "category": "Traditions and culture",
+    "question": "Who wrote The Canterbury Tales?",
+    "choices": ["Geoffrey Chaucer", "William Shakespeare", "Charles Dickens", "Thomas More"],
+    "answer": 0,
+    "explanation": "Chaucer wrote the poem in the late 14th century, as a series of stories told by pilgrims travelling to Canterbury."
+  },
+  {
+    "id": "uk-015",
+    "category": "Early history",
+    "question": "Hadrian's Wall was built on the orders of whom?",
+    "choices": ["Julius Caesar", "King Alfred", "The Roman Emperor Hadrian", "William the Conqueror"],
+    "answer": 2,
+    "explanation": "Built from AD 122 across the north of England, to defend the Roman province from tribes in what is now Scotland. Parts of it still stand."
+  },
+  {
+    "id": "uk-016",
+    "category": "Early history",
+    "question": "In which year did the Battle of Hastings take place?",
+    "choices": ["1016", "1066", "1166", "1215"],
+    "answer": 1,
+    "explanation": "William of Normandy defeated King Harold in 1066 and became King of England. It was the last successful foreign invasion of England."
+  },
+  {
+    "id": "uk-017",
+    "category": "Early history",
+    "question": "What does the Bayeux Tapestry depict?",
+    "choices": [
+      "The Norman conquest of England",
+      "The signing of Magna Carta",
+      "The Roman occupation of Britain",
+      "The Wars of the Roses"
+    ],
+    "answer": 0,
+    "explanation": "The embroidery tells the story of the Norman invasion and the Battle of Hastings. It can still be seen in France."
+  },
+  {
+    "id": "uk-018",
+    "category": "Early history",
+    "question": "What was the Domesday Book?",
+    "choices": [
+      "A list of the laws of the church",
+      "A record of the king's debts",
+      "A survey of the towns, villages, land and people of England",
+      "An account of the Black Death"
+    ],
+    "answer": 2,
+    "explanation": "Ordered by William the Conqueror and completed in 1086, it recorded who owned what across England so it could be taxed."
+  },
+  {
+    "id": "uk-019",
+    "category": "Early history",
+    "question": "Which king was forced to agree to Magna Carta in 1215?",
+    "choices": ["King John", "King Richard I", "King Henry II", "King Edward I"],
+    "answer": 0,
+    "explanation": "Barons forced King John to accept the charter at Runnymede."
+  },
+  {
+    "id": "uk-020",
+    "category": "Early history",
+    "question": "What principle did Magna Carta establish?",
+    "choices": [
+      "That everyone could vote",
+      "That the king was subject to the law, not above it",
+      "That England and Scotland were united",
+      "That the church was independent of Rome"
+    ],
+    "answer": 1,
+    "explanation": "It limited the king's power and is treated as a foundation of rights and the rule of law in the UK."
+  },
+  {
+    "id": "uk-021",
+    "category": "The Middle Ages",
+    "question": "The Wars of the Roses were fought between which two houses?",
+    "choices": [
+      "Tudor and Stuart",
+      "York and Lancaster",
+      "Normandy and Anjou",
+      "Windsor and Hanover"
+    ],
+    "answer": 1,
+    "explanation": "The House of Lancaster (red rose) fought the House of York (white rose) for the throne from 1455."
+  },
+  {
+    "id": "uk-022",
+    "category": "The Middle Ages",
+    "question": "Which battle in 1485 ended the Wars of the Roses?",
+    "choices": ["Agincourt", "Bannockburn", "Bosworth Field", "Culloden"],
+    "answer": 2,
+    "explanation": "Richard III was killed at Bosworth Field and Henry Tudor became King Henry VII, beginning the Tudor dynasty."
+  },
+  {
+    "id": "uk-023",
+    "category": "The Tudors and Stuarts",
+    "question": "How many wives did Henry VIII have?",
+    "choices": ["Three", "Four", "Six", "Eight"],
+    "answer": 2,
+    "explanation": "Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr."
+  },
+  {
+    "id": "uk-024",
+    "category": "The Tudors and Stuarts",
+    "question": "Why did Henry VIII break away from the Church of Rome?",
+    "choices": [
+      "The Pope would not annul his first marriage",
+      "He wanted to join the Church of Scotland",
+      "Parliament ordered him to",
+      "He wanted services held in Latin"
+    ],
+    "answer": 0,
+    "explanation": "The Pope refused to annul his marriage to Catherine of Aragon, so Henry established the Church of England with himself at its head."
+  },
+  {
+    "id": "uk-025",
+    "category": "The Tudors and Stuarts",
+    "question": "The Spanish Armada was defeated during the reign of which monarch?",
+    "choices": ["Mary I", "Elizabeth I", "James I", "Henry VIII"],
+    "answer": 1,
+    "explanation": "The Armada was sent to invade England in 1588 and was defeated during the reign of Elizabeth I."
+  },
+  {
+    "id": "uk-026",
+    "category": "The Tudors and Stuarts",
+    "question": "What did the Bill of Rights of 1689 do?",
+    "choices": [
+      "Gave every adult the right to vote",
+      "Abolished the monarchy",
+      "Confirmed that the monarch needed Parliament's agreement to rule",
+      "Created the Supreme Court"
+    ],
+    "answer": 2,
+    "explanation": "It required the monarch to have Parliament's consent to raise taxes or keep an army, and established regular parliaments."
+  },
+  {
+    "id": "uk-027",
+    "category": "A global power",
+    "question": "What did the Act of Union of 1707 create?",
+    "choices": [
+      "The United Kingdom of Great Britain and Ireland",
+      "The Kingdom of Great Britain",
+      "The Commonwealth",
+      "The Scottish Parliament"
+    ],
+    "answer": 1,
+    "explanation": "It joined Scotland with England and Wales under a single parliament at Westminster, creating the Kingdom of Great Britain."
+  },
+  {
+    "id": "uk-028",
+    "category": "A global power",
+    "question": "Admiral Nelson died in 1805 at which battle?",
+    "choices": ["Waterloo", "Trafalgar", "Agincourt", "The Somme"],
+    "answer": 1,
+    "explanation": "Nelson was killed at the Battle of Trafalgar aboard HMS Victory, which is preserved in Portsmouth. Nelson's Column stands in Trafalgar Square."
+  },
+  {
+    "id": "uk-029",
+    "category": "A global power",
+    "question": "Who commanded the British forces that defeated Napoleon at Waterloo in 1815?",
+    "choices": ["Admiral Nelson", "The Duke of Wellington", "Oliver Cromwell", "Robert Clive"],
+    "answer": 1,
+    "explanation": "The Duke of Wellington led the allied forces at Waterloo and later became Prime Minister."
+  },
+  {
+    "id": "uk-030",
+    "category": "A global power",
+    "question": "Florence Nightingale is best known for her work in which field?",
+    "choices": ["Astronomy", "Nursing", "Law reform", "Painting"],
+    "answer": 1,
+    "explanation": "She organised nursing for wounded soldiers during the Crimean War and later founded a nursing school in London, establishing nursing as a profession."
+  },
+  {
+    "id": "uk-031",
+    "category": "The 20th century",
+    "question": "Emmeline Pankhurst is associated with which campaign?",
+    "choices": [
+      "The abolition of slavery",
+      "Votes for women",
+      "The founding of the NHS",
+      "Independence for India"
+    ],
+    "answer": 1,
+    "explanation": "She led the suffragette movement. Women over 30 who met a property qualification won the vote in 1918."
+  },
+  {
+    "id": "uk-032",
+    "category": "The 20th century",
+    "question": "In which year did women in the UK gain the right to vote at the same age as men?",
+    "choices": ["1918", "1921", "1928", "1945"],
+    "answer": 2,
+    "explanation": "In 1928 the voting age for women was lowered to 21, the same as men."
+  },
+  {
+    "id": "uk-033",
+    "category": "The 20th century",
+    "question": "Who was Prime Minister for most of the Second World War?",
+    "choices": ["Clement Attlee", "Neville Chamberlain", "Winston Churchill", "David Lloyd George"],
+    "answer": 2,
+    "explanation": "Churchill became Prime Minister in 1940 and led the wartime coalition government."
+  },
+  {
+    "id": "uk-034",
+    "category": "The 20th century",
+    "question": "In which year was the National Health Service established?",
+    "choices": ["1928", "1945", "1948", "1953"],
+    "answer": 2,
+    "explanation": "The NHS was set up in 1948 under the health minister Aneurin Bevan, providing healthcare free at the point of use."
+  },
+  {
+    "id": "uk-035",
+    "category": "The 20th century",
+    "question": "Who discovered penicillin?",
+    "choices": ["Alexander Fleming", "Edward Jenner", "Joseph Lister", "Isaac Newton"],
+    "answer": 0,
+    "explanation": "Fleming, a Scottish scientist, discovered penicillin in 1928. It became the first widely used antibiotic."
+  },
+  {
+    "id": "uk-036",
+    "category": "The 20th century",
+    "question": "Dolly the sheep, the first mammal cloned from an adult cell, was created at a research institute near which city?",
+    "choices": ["Cambridge", "Edinburgh", "Manchester", "Belfast"],
+    "answer": 1,
+    "explanation": "Dolly was cloned at the Roslin Institute near Edinburgh in 1996."
+  },
+  {
+    "id": "uk-037",
+    "category": "Government",
+    "question": "What are the two Houses of Parliament?",
+    "choices": [
+      "The House of Commons and the House of Lords",
+      "The House of Commons and the Senedd",
+      "The Cabinet and the House of Lords",
+      "The House of Lords and the Supreme Court"
+    ],
+    "answer": 0,
+    "explanation": "MPs are elected to the House of Commons. Members of the House of Lords are mostly appointed, and scrutinise and revise legislation."
+  },
+  {
+    "id": "uk-038",
+    "category": "Government",
+    "question": "What is the maximum period allowed between UK general elections?",
+    "choices": ["Three years", "Four years", "Five years", "Seven years"],
+    "answer": 2,
+    "explanation": "A general election must be held at least every five years, though one can be called sooner."
+  },
+  {
+    "id": "uk-039",
+    "category": "Government",
+    "question": "What is the minimum age to vote in a UK general election?",
+    "choices": ["16", "17", "18", "21"],
+    "answer": 2,
+    "explanation": "You must be 18 or over and registered on the electoral register. Photo ID is now required at polling stations."
+  },
+  {
+    "id": "uk-040",
+    "category": "Government",
+    "question": "What is the role of the Speaker of the House of Commons?",
+    "choices": [
+      "To lead the largest opposition party",
+      "To chair debates and keep order, while remaining politically neutral",
+      "To appoint members of the House of Lords",
+      "To write the government's budget"
+    ],
+    "answer": 1,
+    "explanation": "The Speaker is an MP chosen by other MPs in a secret ballot, and gives up party politics on taking the role."
+  },
+  {
+    "id": "uk-041",
+    "category": "Government",
+    "question": "Members of the Scottish Parliament are known by which title?",
+    "choices": ["MPs", "MSPs", "MLAs", "AMs"],
+    "answer": 1,
+    "explanation": "MSPs sit at Holyrood in Edinburgh. Northern Ireland has MLAs at Stormont, and the Senedd in Cardiff has Members of the Senedd."
+  },
+  {
+    "id": "uk-042",
+    "category": "Government",
+    "question": "What must civil servants be?",
+    "choices": [
+      "Members of the governing party",
+      "Elected by the public",
+      "Politically neutral and appointed on merit",
+      "Appointed by the monarch personally"
+    ],
+    "answer": 2,
+    "explanation": "Civil servants support the government of the day whichever party is in power, and are chosen on merit rather than political loyalty."
+  },
+  {
+    "id": "uk-043",
+    "category": "Law and everyday life",
+    "question": "Which number do you dial in the UK to reach the emergency services?",
+    "choices": ["101", "111", "999", "911"],
+    "answer": 2,
+    "explanation": "999 reaches police, fire, ambulance and coastguard; 112 also works. 101 is for non-emergency police calls and 111 for non-emergency NHS advice."
+  },
+  {
+    "id": "uk-044",
+    "category": "Law and everyday life",
+    "question": "In England and Wales, where are the most serious criminal cases tried?",
+    "choices": [
+      "A magistrates' court",
+      "The Crown Court, before a judge and jury",
+      "A county court",
+      "A tribunal"
+    ],
+    "answer": 1,
+    "explanation": "Serious cases go to the Crown Court, where a jury decides guilt. Minor cases are heard by magistrates without a jury."
+  }
+]

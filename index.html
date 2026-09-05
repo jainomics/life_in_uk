@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Life in the UK — practice test</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <p class="masthead__title">Life in the UK</p>
+  <p class="masthead__sub">Practice test</p>
+</header>
+
+<main id="app">
+
+  <!-- ---------- Start ---------- -->
+  <section id="screen-start" class="screen">
+    <h1>Practise for the citizenship test</h1>
+    <p class="lede">
+      Questions cover British history, culture, government and law — the same ground
+      as the official handbook. Every answer comes with an explanation.
+    </p>
+
+    <div class="modes">
+      <button class="btn btn--primary" id="btn-mock" type="button">
+        Take a mock test
+        <span class="btn__note" id="mock-note">24 questions, 45 minutes</span>
+      </button>
+      <button class="btn" id="btn-practice" type="button">
+        Practise question by question
+        <span class="btn__note" id="practice-note">No timer, feedback as you go</span>
+      </button>
+    </div>
+
+    <p class="disclaimer">
+      Unofficial revision tool. It isn't produced by or endorsed by the Home Office,
+      and passing here doesn't guarantee passing the real test.
+    </p>
+
+    <p class="status" id="load-status" role="status">Loading questions…</p>
+  </section>
+
+  <!-- ---------- Quiz ---------- -->
+  <section id="screen-quiz" class="screen" hidden>
+    <div class="bar">
+      <p class="bar__count" id="counter"></p>
+      <p class="bar__timer" id="timer" hidden></p>
+    </div>
+    <div class="rule"><span class="rule__fill" id="progress"></span></div>
+
+    <p class="category" id="category"></p>
+    <h2 class="question" id="question"></h2>
+
+    <div class="choices" id="choices"></div>
+
+    <div class="feedback" id="feedback" hidden>
+      <p class="feedback__verdict" id="verdict"></p>
+      <p class="feedback__why" id="explanation"></p>
+    </div>
+
+    <button class="btn btn--primary" id="btn-next" type="button" hidden>Next question</button>
+    <button class="btn btn--quiet" id="btn-quit" type="button">End test</button>
+  </section>
+
+  <!-- ---------- Results ---------- -->
+  <section id="screen-results" class="screen" hidden>
+    <p class="verdict-line" id="result-verdict"></p>
+    <p class="score" id="score"></p>
+    <p class="lede" id="result-detail"></p>
+
+    <h2 class="review-heading" id="review-heading" hidden>What you got wrong</h2>
+    <ol class="review" id="review"></ol>
+
+    <div class="modes">
+      <button class="btn btn--primary" id="btn-again" type="button">Take another test</button>
+      <button class="btn" id="btn-home" type="button">Back to start</button>
+    </div>
+  </section>
+
+</main>
+
+<script src="quiz.js"></script>
+</body>
+</html>
