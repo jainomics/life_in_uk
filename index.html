@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Life in the UK — practice test</title>
 <link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#17233b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Life in UK">
 </head>
 <body>
 
@@ -40,6 +47,11 @@
     </p>
 
     <p class="status" id="load-status" role="status">Loading questions…</p>
+
+    <div class="history" id="history" hidden>
+      <h2 class="history__heading">Recent attempts</h2>
+      <ul class="history__list" id="history-list"></ul>
+    </div>
   </section>
 
   <!-- ---------- Quiz ---------- -->
@@ -69,6 +81,9 @@
     <p class="verdict-line" id="result-verdict"></p>
     <p class="score" id="score"></p>
     <p class="lede" id="result-detail"></p>
+
+    <h2 class="breakdown-heading">By topic</h2>
+    <div class="breakdown" id="category-breakdown"></div>
 
     <h2 class="review-heading" id="review-heading" hidden>What you got wrong</h2>
     <ol class="review" id="review"></ol>

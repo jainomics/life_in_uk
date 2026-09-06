@@ -1,0 +1,14 @@
+{
+  "name": "Life in the UK — Practice test",
+  "short_name": "Life in UK",
+  "description": "Unofficial practice test for the Life in the UK citizenship test.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9ebef",
+  "theme_color": "#17233b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

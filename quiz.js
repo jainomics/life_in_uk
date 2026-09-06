@@ -22,6 +22,70 @@ let mode = 'practice';
 let deadline = null;
 let tick = null;
 
+/* ---------- storage (best-effort; falls back to in-memory) ---------- */
+
+const STATS_KEY = 'liuk_stats_v1';
+const HISTORY_KEY = 'liuk_history_v1';
+const HISTORY_LIMIT = 5;
+let memoryStats = {};
+let memoryHistory = [];
+
+function loadHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(HISTORY_KEY)) || [];
+  } catch {
+    return memoryHistory;
+  }
+}
+
+function recordAttempt(entry) {
+  const history = [entry, ...loadHistory()].slice(0, HISTORY_LIMIT);
+  try {
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+  } catch {
+    memoryHistory = history;
+  }
+}
+
+function loadStats() {
+  try {
+    return JSON.parse(localStorage.getItem(STATS_KEY)) || {};
+  } catch {
+    return memoryStats;
+  }
+}
+
+function saveStats(stats) {
+  try {
+    localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+  } catch {
+    memoryStats = stats; // private browsing or storage disabled: keep it for this session only
+  }
+}
+
+function recordAnswer(id, correct) {
+  const stats = loadStats();
+  const row = stats[id] || { seen: 0, wrong: 0 };
+  row.seen++;
+  if (!correct) row.wrong++;
+  stats[id] = row;
+  saveStats(stats);
+}
+
+// Never-seen and often-missed questions get a bigger share of voice when
+// building a test, so revision naturally drifts toward weak spots.
+function weight(q, stats) {
+  const row = stats[q.id];
+  if (!row || row.seen === 0) return 3;
+  return 1 + 2 * (row.wrong / row.seen);
+}
+
+function weightedSample(list, count, stats) {
+  const bag = list.map((q) => ({ q, w: weight(q, stats) * Math.random() }));
+  bag.sort((a, b) => b.w - a.w);
+  return bag.slice(0, count).map((x) => x.q);
+}
+
 /* ---------- loading ---------- */
 
 async function loadQuestions() {
@@ -41,6 +105,8 @@ async function loadQuestions() {
       `${n} questions, ${CONFIG.mockMinutes} minutes, answers at the end`;
     el('practice-note').textContent =
       `${pool.length} questions, no timer, explanation after each one`;
+
+    renderHistory();
   } catch (err) {
     status.className = 'status status--error';
     status.textContent =
@@ -69,6 +135,43 @@ function prepare(q) {
   return { ...q, options: shuffle(options) };
 }
 
+function renderHistory() {
+  const box = el('history');
+  const entries = loadHistory();
+
+  if (entries.length === 0) {
+    box.hidden = true;
+    return;
+  }
+  box.hidden = false;
+
+  const list = el('history-list');
+  list.textContent = '';
+  entries.forEach((e) => {
+    const li = document.createElement('li');
+    li.className = 'history__row';
+
+    const when = document.createElement('span');
+    when.className = 'history__when';
+    when.textContent = new Date(e.date).toLocaleDateString(undefined, {
+      day: 'numeric', month: 'short'
+    });
+
+    const kind = document.createElement('span');
+    kind.className = 'history__mode';
+    kind.textContent = e.mode === 'mock' ? 'Mock test' : 'Practice';
+
+    const score = document.createElement('span');
+    score.className = 'history__score ' + (e.mode === 'mock'
+      ? (e.passed ? 'history__score--pass' : 'history__score--fail')
+      : '');
+    score.textContent = `${e.right}/${e.total}`;
+
+    li.append(when, kind, score);
+    list.appendChild(li);
+  });
+}
+
 function show(name) {
   Object.values(screens).forEach((s) => { s.hidden = true; });
   screens[name].hidden = false;
@@ -80,7 +183,11 @@ function show(name) {
 function start(which) {
   mode = which;
   const count = which === 'mock' ? Math.min(CONFIG.mockLength, pool.length) : pool.length;
-  paper = shuffle(pool).slice(0, count).map(prepare);
+  const stats = loadStats();
+  // Weighted pick decides WHICH questions (biased to weak spots), then a plain
+  // shuffle decides the ORDER, so the hardest ones aren't all bunched together.
+  const chosen = weightedSample(pool, count, stats);
+  paper = shuffle(chosen).map(prepare);
   index = 0;
   answers = [];
 
@@ -135,6 +242,7 @@ function answer(chosen) {
   const q = paper[index];
   const correct = q.options[chosen].correct;
   answers.push({ chosen, correct });
+  recordAnswer(q.id, correct);
 
   const buttons = el('choices').querySelectorAll('button');
   buttons.forEach((b) => { b.disabled = true; });
@@ -167,12 +275,55 @@ function advance() {
   else finish();
 }
 
+function renderCategoryBreakdown() {
+  const box = el('category-breakdown');
+  const tally = new Map(); // category -> { right, total }
+
+  paper.forEach((q, i) => {
+    const cat = q.category || 'General';
+    const row = tally.get(cat) || { right: 0, total: 0 };
+    row.total++;
+    if (answers[i] && answers[i].correct) row.right++;
+    tally.set(cat, row);
+  });
+
+  box.textContent = '';
+  // Weakest topics first, so the person sees what to revise without hunting for it.
+  const rows = [...tally.entries()].sort((a, b) => (a[1].right / a[1].total) - (b[1].right / b[1].total));
+
+  rows.forEach(([cat, { right, total }]) => {
+    const row = document.createElement('div');
+    row.className = 'cat-row';
+
+    const label = document.createElement('span');
+    label.className = 'cat-row__label';
+    label.textContent = cat;
+
+    const bar = document.createElement('span');
+    bar.className = 'cat-row__bar';
+    const fill = document.createElement('span');
+    fill.className = 'cat-row__fill';
+    fill.style.width = `${(right / total) * 100}%`;
+    if (right / total < 0.5) fill.classList.add('cat-row__fill--weak');
+    bar.appendChild(fill);
+
+    const count = document.createElement('span');
+    count.className = 'cat-row__count';
+    count.textContent = `${right}/${total}`;
+
+    row.append(label, bar, count);
+    box.appendChild(row);
+  });
+}
+
 function finish() {
   if (tick) { clearInterval(tick); tick = null; }
 
   const right = answers.filter((a) => a.correct).length;
   const needed = Math.ceil(paper.length * CONFIG.passRatio);
   const passed = right >= needed;
+
+  recordAttempt({ date: Date.now(), mode, right, total: paper.length, passed });
 
   const score = el('score');
   score.textContent = `${right}/${paper.length}`;
@@ -182,6 +333,8 @@ function finish() {
   el('result-detail').textContent = passed
     ? `You needed ${needed} to pass. Keep practising the topics below until they stick.`
     : `You needed ${needed} to pass. The questions you missed are listed below.`;
+
+  renderCategoryBreakdown();
 
   const list = el('review');
   list.textContent = '';
@@ -216,7 +369,7 @@ el('btn-practice').addEventListener('click', () => start('practice'));
 el('btn-next').addEventListener('click', advance);
 el('btn-quit').addEventListener('click', finish);
 el('btn-again').addEventListener('click', () => start(mode));
-el('btn-home').addEventListener('click', () => show('start'));
+el('btn-home').addEventListener('click', () => { renderHistory(); show('start'); });
 
 el('btn-mock').disabled = true;
 el('btn-practice').disabled = true;

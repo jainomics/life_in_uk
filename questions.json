@@ -3,7 +3,12 @@
     "id": "uk-001",
     "category": "The UK today",
     "question": "How many countries make up the United Kingdom?",
-    "choices": ["Two", "Three", "Four", "Five"],
+    "choices": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
     "answer": 2,
     "explanation": "England, Scotland, Wales and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales."
   },
@@ -11,7 +16,12 @@
     "id": "uk-002",
     "category": "The UK today",
     "question": "Which of these is a Crown Dependency rather than part of the UK?",
-    "choices": ["Northern Ireland", "The Isle of Man", "Cornwall", "Anglesey"],
+    "choices": [
+      "Northern Ireland",
+      "The Isle of Man",
+      "Cornwall",
+      "Anglesey"
+    ],
     "answer": 1,
     "explanation": "The Isle of Man and the Channel Islands are Crown Dependencies. They have their own governments and are not part of the UK."
   },
@@ -19,7 +29,12 @@
     "id": "uk-003",
     "category": "The UK today",
     "question": "What is the capital city of Wales?",
-    "choices": ["Swansea", "Bangor", "Newport", "Cardiff"],
+    "choices": [
+      "Swansea",
+      "Bangor",
+      "Newport",
+      "Cardiff"
+    ],
     "answer": 3,
     "explanation": "Cardiff. The Senedd, the Welsh Parliament, sits in Cardiff Bay."
   },
@@ -27,7 +42,12 @@
     "id": "uk-004",
     "category": "The UK today",
     "question": "What is the capital city of Scotland?",
-    "choices": ["Glasgow", "Edinburgh", "Aberdeen", "Dundee"],
+    "choices": [
+      "Glasgow",
+      "Edinburgh",
+      "Aberdeen",
+      "Dundee"
+    ],
     "answer": 1,
     "explanation": "Edinburgh, though Glasgow is the larger city."
   },
@@ -35,7 +55,12 @@
     "id": "uk-005",
     "category": "The UK today",
     "question": "Ben Nevis, the highest mountain in the UK, is in which country?",
-    "choices": ["Wales", "England", "Scotland", "Northern Ireland"],
+    "choices": [
+      "Wales",
+      "England",
+      "Scotland",
+      "Northern Ireland"
+    ],
     "answer": 2,
     "explanation": "Ben Nevis is in the Scottish Highlands, near Fort William."
   },
@@ -43,7 +68,12 @@
     "id": "uk-006",
     "category": "Traditions and culture",
     "question": "When is St George's Day, the patron saint's day of England?",
-    "choices": ["1 March", "17 March", "23 April", "30 November"],
+    "choices": [
+      "1 March",
+      "17 March",
+      "23 April",
+      "30 November"
+    ],
     "answer": 2,
     "explanation": "23 April. The other dates belong to St David (Wales, 1 March), St Patrick (Northern Ireland, 17 March) and St Andrew (Scotland, 30 November)."
   },
@@ -51,7 +81,12 @@
     "id": "uk-007",
     "category": "Traditions and culture",
     "question": "Which patron saint's day falls on 1 March?",
-    "choices": ["St Andrew", "St David", "St Patrick", "St George"],
+    "choices": [
+      "St Andrew",
+      "St David",
+      "St Patrick",
+      "St George"
+    ],
     "answer": 1,
     "explanation": "St David is the patron saint of Wales, celebrated on 1 March."
   },
@@ -98,7 +133,12 @@
     "id": "uk-011",
     "category": "Traditions and culture",
     "question": "Robert Burns, whose birthday is marked with a supper each January, was a poet from which country?",
-    "choices": ["Wales", "Ireland", "England", "Scotland"],
+    "choices": [
+      "Wales",
+      "Ireland",
+      "England",
+      "Scotland"
+    ],
     "answer": 3,
     "explanation": "Burns was Scotland's national poet. Burns Night is held on 25 January, and his song 'Auld Lang Syne' is sung at New Year."
   },
@@ -106,7 +146,12 @@
     "id": "uk-012",
     "category": "Traditions and culture",
     "question": "The Eisteddfod is a festival of music and poetry associated with which part of the UK?",
-    "choices": ["Wales", "Cornwall", "Northern Ireland", "The Scottish Highlands"],
+    "choices": [
+      "Wales",
+      "Cornwall",
+      "Northern Ireland",
+      "The Scottish Highlands"
+    ],
     "answer": 0,
     "explanation": "The Eisteddfod is a Welsh festival with roots going back centuries, held largely in the Welsh language."
   },
@@ -114,7 +159,12 @@
     "id": "uk-013",
     "category": "Traditions and culture",
     "question": "In which town was William Shakespeare born?",
-    "choices": ["Canterbury", "Stratford-upon-Avon", "Oxford", "York"],
+    "choices": [
+      "Canterbury",
+      "Stratford-upon-Avon",
+      "Oxford",
+      "York"
+    ],
     "answer": 1,
     "explanation": "Shakespeare was born in Stratford-upon-Avon in Warwickshire in 1564 and later worked in London."
   },
@@ -122,7 +172,12 @@
     "id": "uk-014",
     "category": "Traditions and culture",
     "question": "Who wrote The Canterbury Tales?",
-    "choices": ["Geoffrey Chaucer", "William Shakespeare", "Charles Dickens", "Thomas More"],
+    "choices": [
+      "Geoffrey Chaucer",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Thomas More"
+    ],
     "answer": 0,
     "explanation": "Chaucer wrote the poem in the late 14th century, as a series of stories told by pilgrims travelling to Canterbury."
   },
@@ -130,7 +185,12 @@
     "id": "uk-015",
     "category": "Early history",
     "question": "Hadrian's Wall was built on the orders of whom?",
-    "choices": ["Julius Caesar", "King Alfred", "The Roman Emperor Hadrian", "William the Conqueror"],
+    "choices": [
+      "Julius Caesar",
+      "King Alfred",
+      "The Roman Emperor Hadrian",
+      "William the Conqueror"
+    ],
     "answer": 2,
     "explanation": "Built from AD 122 across the north of England, to defend the Roman province from tribes in what is now Scotland. Parts of it still stand."
   },
@@ -138,7 +198,12 @@
     "id": "uk-016",
     "category": "Early history",
     "question": "In which year did the Battle of Hastings take place?",
-    "choices": ["1016", "1066", "1166", "1215"],
+    "choices": [
+      "1016",
+      "1066",
+      "1166",
+      "1215"
+    ],
     "answer": 1,
     "explanation": "William of Normandy defeated King Harold in 1066 and became King of England. It was the last successful foreign invasion of England."
   },
@@ -172,7 +237,12 @@
     "id": "uk-019",
     "category": "Early history",
     "question": "Which king was forced to agree to Magna Carta in 1215?",
-    "choices": ["King John", "King Richard I", "King Henry II", "King Edward I"],
+    "choices": [
+      "King John",
+      "King Richard I",
+      "King Henry II",
+      "King Edward I"
+    ],
     "answer": 0,
     "explanation": "Barons forced King John to accept the charter at Runnymede."
   },
@@ -206,7 +276,12 @@
     "id": "uk-022",
     "category": "The Middle Ages",
     "question": "Which battle in 1485 ended the Wars of the Roses?",
-    "choices": ["Agincourt", "Bannockburn", "Bosworth Field", "Culloden"],
+    "choices": [
+      "Agincourt",
+      "Bannockburn",
+      "Bosworth Field",
+      "Culloden"
+    ],
     "answer": 2,
     "explanation": "Richard III was killed at Bosworth Field and Henry Tudor became King Henry VII, beginning the Tudor dynasty."
   },
@@ -214,7 +289,12 @@
     "id": "uk-023",
     "category": "The Tudors and Stuarts",
     "question": "How many wives did Henry VIII have?",
-    "choices": ["Three", "Four", "Six", "Eight"],
+    "choices": [
+      "Three",
+      "Four",
+      "Six",
+      "Eight"
+    ],
     "answer": 2,
     "explanation": "Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr."
   },
@@ -235,7 +315,12 @@
     "id": "uk-025",
     "category": "The Tudors and Stuarts",
     "question": "The Spanish Armada was defeated during the reign of which monarch?",
-    "choices": ["Mary I", "Elizabeth I", "James I", "Henry VIII"],
+    "choices": [
+      "Mary I",
+      "Elizabeth I",
+      "James I",
+      "Henry VIII"
+    ],
     "answer": 1,
     "explanation": "The Armada was sent to invade England in 1588 and was defeated during the reign of Elizabeth I."
   },
@@ -269,7 +354,12 @@
     "id": "uk-028",
     "category": "A global power",
     "question": "Admiral Nelson died in 1805 at which battle?",
-    "choices": ["Waterloo", "Trafalgar", "Agincourt", "The Somme"],
+    "choices": [
+      "Waterloo",
+      "Trafalgar",
+      "Agincourt",
+      "The Somme"
+    ],
     "answer": 1,
     "explanation": "Nelson was killed at the Battle of Trafalgar aboard HMS Victory, which is preserved in Portsmouth. Nelson's Column stands in Trafalgar Square."
   },
@@ -277,7 +367,12 @@
     "id": "uk-029",
     "category": "A global power",
     "question": "Who commanded the British forces that defeated Napoleon at Waterloo in 1815?",
-    "choices": ["Admiral Nelson", "The Duke of Wellington", "Oliver Cromwell", "Robert Clive"],
+    "choices": [
+      "Admiral Nelson",
+      "The Duke of Wellington",
+      "Oliver Cromwell",
+      "Robert Clive"
+    ],
     "answer": 1,
     "explanation": "The Duke of Wellington led the allied forces at Waterloo and later became Prime Minister."
   },
@@ -285,7 +380,12 @@
     "id": "uk-030",
     "category": "A global power",
     "question": "Florence Nightingale is best known for her work in which field?",
-    "choices": ["Astronomy", "Nursing", "Law reform", "Painting"],
+    "choices": [
+      "Astronomy",
+      "Nursing",
+      "Law reform",
+      "Painting"
+    ],
     "answer": 1,
     "explanation": "She organised nursing for wounded soldiers during the Crimean War and later founded a nursing school in London, establishing nursing as a profession."
   },
@@ -306,7 +406,12 @@
     "id": "uk-032",
     "category": "The 20th century",
     "question": "In which year did women in the UK gain the right to vote at the same age as men?",
-    "choices": ["1918", "1921", "1928", "1945"],
+    "choices": [
+      "1918",
+      "1921",
+      "1928",
+      "1945"
+    ],
     "answer": 2,
     "explanation": "In 1928 the voting age for women was lowered to 21, the same as men."
   },
@@ -314,7 +419,12 @@
     "id": "uk-033",
     "category": "The 20th century",
     "question": "Who was Prime Minister for most of the Second World War?",
-    "choices": ["Clement Attlee", "Neville Chamberlain", "Winston Churchill", "David Lloyd George"],
+    "choices": [
+      "Clement Attlee",
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "David Lloyd George"
+    ],
     "answer": 2,
     "explanation": "Churchill became Prime Minister in 1940 and led the wartime coalition government."
   },
@@ -322,7 +432,12 @@
     "id": "uk-034",
     "category": "The 20th century",
     "question": "In which year was the National Health Service established?",
-    "choices": ["1928", "1945", "1948", "1953"],
+    "choices": [
+      "1928",
+      "1945",
+      "1948",
+      "1953"
+    ],
     "answer": 2,
     "explanation": "The NHS was set up in 1948 under the health minister Aneurin Bevan, providing healthcare free at the point of use."
   },
@@ -330,7 +445,12 @@
     "id": "uk-035",
     "category": "The 20th century",
     "question": "Who discovered penicillin?",
-    "choices": ["Alexander Fleming", "Edward Jenner", "Joseph Lister", "Isaac Newton"],
+    "choices": [
+      "Alexander Fleming",
+      "Edward Jenner",
+      "Joseph Lister",
+      "Isaac Newton"
+    ],
     "answer": 0,
     "explanation": "Fleming, a Scottish scientist, discovered penicillin in 1928. It became the first widely used antibiotic."
   },
@@ -338,7 +458,12 @@
     "id": "uk-036",
     "category": "The 20th century",
     "question": "Dolly the sheep, the first mammal cloned from an adult cell, was created at a research institute near which city?",
-    "choices": ["Cambridge", "Edinburgh", "Manchester", "Belfast"],
+    "choices": [
+      "Cambridge",
+      "Edinburgh",
+      "Manchester",
+      "Belfast"
+    ],
     "answer": 1,
     "explanation": "Dolly was cloned at the Roslin Institute near Edinburgh in 1996."
   },
@@ -359,7 +484,12 @@
     "id": "uk-038",
     "category": "Government",
     "question": "What is the maximum period allowed between UK general elections?",
-    "choices": ["Three years", "Four years", "Five years", "Seven years"],
+    "choices": [
+      "Three years",
+      "Four years",
+      "Five years",
+      "Seven years"
+    ],
     "answer": 2,
     "explanation": "A general election must be held at least every five years, though one can be called sooner."
   },
@@ -367,7 +497,12 @@
     "id": "uk-039",
     "category": "Government",
     "question": "What is the minimum age to vote in a UK general election?",
-    "choices": ["16", "17", "18", "21"],
+    "choices": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
     "answer": 2,
     "explanation": "You must be 18 or over and registered on the electoral register. Photo ID is now required at polling stations."
   },
@@ -388,7 +523,12 @@
     "id": "uk-041",
     "category": "Government",
     "question": "Members of the Scottish Parliament are known by which title?",
-    "choices": ["MPs", "MSPs", "MLAs", "AMs"],
+    "choices": [
+      "MPs",
+      "MSPs",
+      "MLAs",
+      "AMs"
+    ],
     "answer": 1,
     "explanation": "MSPs sit at Holyrood in Edinburgh. Northern Ireland has MLAs at Stormont, and the Senedd in Cardiff has Members of the Senedd."
   },
@@ -409,7 +549,12 @@
     "id": "uk-043",
     "category": "Law and everyday life",
     "question": "Which number do you dial in the UK to reach the emergency services?",
-    "choices": ["101", "111", "999", "911"],
+    "choices": [
+      "101",
+      "111",
+      "999",
+      "911"
+    ],
     "answer": 2,
     "explanation": "999 reaches police, fire, ambulance and coastguard; 112 also works. 101 is for non-emergency police calls and 111 for non-emergency NHS advice."
   },
@@ -425,5 +570,1266 @@
     ],
     "answer": 1,
     "explanation": "Serious cases go to the Crown Court, where a jury decides guilt. Minor cases are heard by magistrates without a jury."
+  },
+  {
+    "id": "uk-045",
+    "category": "Values and principles",
+    "question": "Which of these is one of the values described in the Life in the UK guide?",
+    "choices": [
+      "Respect for the law and for others",
+      "Support for a single political party",
+      "Preference for one religion over others",
+      "Mandatory military service"
+    ],
+    "answer": 0,
+    "explanation": "The guide sets out shared values including democracy, the rule of law, individual liberty, and mutual respect and tolerance."
+  },
+  {
+    "id": "uk-046",
+    "category": "Values and principles",
+    "question": "What term describes the UK's system in which power is divided between the government, Parliament and the courts?",
+    "choices": [
+      "Separation of powers",
+      "Absolute monarchy",
+      "Direct democracy",
+      "Federalism"
+    ],
+    "answer": 0,
+    "explanation": "No single body holds unchecked power: the government governs, Parliament makes law, and the courts interpret it independently."
+  },
+  {
+    "id": "uk-047",
+    "category": "Values and principles",
+    "question": "Freedom of speech in the UK is best described as which of these?",
+    "choices": [
+      "An unlimited right with no restrictions",
+      "A right balanced against other laws, such as those on hate speech",
+      "A right only for journalists",
+      "A right granted only to citizens, not residents"
+    ],
+    "answer": 1,
+    "explanation": "Speech is protected but not absolute; it can be restricted, for example, where it incites violence or hatred."
+  },
+  {
+    "id": "uk-048",
+    "category": "Values and principles",
+    "question": "What does 'the rule of law' mean?",
+    "choices": [
+      "The king makes all laws personally",
+      "Everyone, including the government, is subject to the law",
+      "Only Parliament can be prosecuted",
+      "Judges can change laws at will"
+    ],
+    "answer": 1,
+    "explanation": "No one, including those in power, is above the law, and everyone is entitled to its equal protection."
+  },
+  {
+    "id": "uk-049",
+    "category": "Values and principles",
+    "question": "Which of these is NOT one of the values highlighted in the Life in the UK guide?",
+    "choices": [
+      "Democracy",
+      "Individual liberty",
+      "Tolerance of different faiths and beliefs",
+      "Conformity to a single culture"
+    ],
+    "answer": 3,
+    "explanation": "The guide emphasises tolerance and diversity, not conformity to a single culture."
+  },
+  {
+    "id": "uk-050",
+    "category": "Values and principles",
+    "question": "In the UK, discrimination on grounds such as race, gender, disability, religion, sexual orientation or age is generally what?",
+    "choices": [
+      "Legal in private companies",
+      "Against the law",
+      "Only regulated in London",
+      "Left to employer discretion"
+    ],
+    "answer": 1,
+    "explanation": "The Equality Act 2010 makes discrimination on these grounds unlawful in employment, education and services."
+  },
+  {
+    "id": "uk-051",
+    "category": "Religion and diversity",
+    "question": "What is the established church in England?",
+    "choices": [
+      "The Roman Catholic Church",
+      "The Church of England",
+      "The Methodist Church",
+      "The Church of Scotland"
+    ],
+    "answer": 1,
+    "explanation": "The Church of England, an Anglican church, is the established (official) church in England."
+  },
+  {
+    "id": "uk-052",
+    "category": "Religion and diversity",
+    "question": "Who is the Supreme Governor of the Church of England?",
+    "choices": [
+      "The Archbishop of Canterbury",
+      "The Prime Minister",
+      "The reigning monarch",
+      "The Pope"
+    ],
+    "answer": 2,
+    "explanation": "The monarch holds this title, while the Archbishop of Canterbury is the senior bishop and spiritual leader."
+  },
+  {
+    "id": "uk-053",
+    "category": "Religion and diversity",
+    "question": "Which church is recognised as the national church of Scotland?",
+    "choices": [
+      "The Church of England",
+      "The Church of Scotland",
+      "The Roman Catholic Church",
+      "The Free Church of Scotland"
+    ],
+    "answer": 1,
+    "explanation": "The Church of Scotland, a Presbyterian church, is Scotland's national church, though it is organised differently from the established Church of England."
+  },
+  {
+    "id": "uk-054",
+    "category": "Religion and diversity",
+    "question": "Diwali, the festival of light, is celebrated by followers of which religions?",
+    "choices": [
+      "Christianity only",
+      "Hinduism and Sikhism, among others",
+      "Islam only",
+      "Judaism only"
+    ],
+    "answer": 1,
+    "explanation": "Diwali is celebrated by Hindus, Sikhs and Jains, and marks the victory of light over darkness."
+  },
+  {
+    "id": "uk-055",
+    "category": "Religion and diversity",
+    "question": "Eid al-Fitr marks the end of which observance?",
+    "choices": [
+      "Lent",
+      "Ramadan",
+      "Passover",
+      "Advent"
+    ],
+    "answer": 1,
+    "explanation": "Eid al-Fitr celebrates the end of Ramadan, the Islamic month of fasting."
+  },
+  {
+    "id": "uk-056",
+    "category": "Religion and diversity",
+    "question": "Which festival do Jewish people celebrate to mark their escape from slavery in Egypt?",
+    "choices": [
+      "Hanukkah",
+      "Yom Kippur",
+      "Passover",
+      "Rosh Hashanah"
+    ],
+    "answer": 2,
+    "explanation": "Passover (Pesach) commemorates the Exodus story of liberation from slavery in Egypt."
+  },
+  {
+    "id": "uk-057",
+    "category": "Religion and diversity",
+    "question": "In the most recent census, which was recorded as the largest religion in England and Wales?",
+    "choices": [
+      "Islam",
+      "Christianity",
+      "Hinduism",
+      "No religion"
+    ],
+    "answer": 1,
+    "explanation": "The 2021 census recorded Christianity as the largest single religion, at just over 46%, even as the proportion reporting no religion has grown."
+  },
+  {
+    "id": "uk-058",
+    "category": "Religion and diversity",
+    "question": "The UK is generally described in the citizenship guide as a society that is what?",
+    "choices": [
+      "Religiously homogenous",
+      "Tolerant of different faiths and of those with none",
+      "Officially atheist",
+      "Governed by religious law"
+    ],
+    "answer": 1,
+    "explanation": "The guide presents the UK as home to many faiths and beliefs, with tolerance as a shared value."
+  },
+  {
+    "id": "uk-059",
+    "category": "Sport",
+    "question": "Which sport is most associated with Wimbledon?",
+    "choices": [
+      "Cricket",
+      "Tennis",
+      "Golf",
+      "Rugby"
+    ],
+    "answer": 1,
+    "explanation": "The Wimbledon Championships are the oldest tennis tournament in the world."
+  },
+  {
+    "id": "uk-060",
+    "category": "Sport",
+    "question": "The FA Cup is the oldest cup competition in which sport?",
+    "choices": [
+      "Rugby union",
+      "Cricket",
+      "Association football",
+      "Hockey"
+    ],
+    "answer": 2,
+    "explanation": "The FA Cup, first played in 1871-72, is the world's oldest football cup competition."
+  },
+  {
+    "id": "uk-061",
+    "category": "Sport",
+    "question": "The Open Championship, golf's oldest major, is always held in which country?",
+    "choices": [
+      "The UK",
+      "The USA",
+      "Australia",
+      "France"
+    ],
+    "answer": 0,
+    "explanation": "The Open rotates between courses in the UK, mostly in Scotland and England."
+  },
+  {
+    "id": "uk-062",
+    "category": "Sport",
+    "question": "What is the name of the annual horse race held at Aintree?",
+    "choices": [
+      "The Derby",
+      "The Grand National",
+      "Royal Ascot",
+      "The St Leger"
+    ],
+    "answer": 1,
+    "explanation": "The Grand National is a famous steeplechase run at Aintree Racecourse near Liverpool."
+  },
+  {
+    "id": "uk-063",
+    "category": "Sport",
+    "question": "Which city hosted the Summer Olympic Games in 2012?",
+    "choices": [
+      "Manchester",
+      "Glasgow",
+      "London",
+      "Birmingham"
+    ],
+    "answer": 2,
+    "explanation": "London hosted the Games in 2012, having also hosted them in 1908 and 1948."
+  },
+  {
+    "id": "uk-064",
+    "category": "Sport",
+    "question": "Rugby union is said to have originated in which English town, which gave the sport its name?",
+    "choices": [
+      "Rugby",
+      "Bath",
+      "Leeds",
+      "Twickenham"
+    ],
+    "answer": 0,
+    "explanation": "The sport takes its name from Rugby School in Warwickshire."
+  },
+  {
+    "id": "uk-065",
+    "category": "Sport",
+    "question": "The Grand National and the Derby are both examples of which sport?",
+    "choices": [
+      "Athletics",
+      "Horse racing",
+      "Motor racing",
+      "Cycling"
+    ],
+    "answer": 1,
+    "explanation": "Both are major events in the British horse racing calendar."
+  },
+  {
+    "id": "uk-066",
+    "category": "Sport",
+    "question": "In which sport do England and Australia compete for The Ashes?",
+    "choices": [
+      "Rugby",
+      "Cricket",
+      "Football",
+      "Hockey"
+    ],
+    "answer": 1,
+    "explanation": "The Ashes is a Test cricket series contested between England and Australia."
+  },
+  {
+    "id": "uk-067",
+    "category": "Sport",
+    "question": "Which traditional Scottish sporting event features events like the caber toss?",
+    "choices": [
+      "The Highland Games",
+      "The Six Nations",
+      "The Grand National",
+      "Royal Ascot"
+    ],
+    "answer": 0,
+    "explanation": "The Highland Games are held across Scotland and feature feats of strength alongside music and dance."
+  },
+  {
+    "id": "uk-068",
+    "category": "Sport",
+    "question": "Which annual rowing race takes place on the River Thames between two universities?",
+    "choices": [
+      "The Oxford and Cambridge Boat Race",
+      "The Head of the River",
+      "The Henley Sprint",
+      "The Thames Cup"
+    ],
+    "answer": 0,
+    "explanation": "The Boat Race has been held most years since 1829 between crews from Oxford and Cambridge."
+  },
+  {
+    "id": "uk-069",
+    "category": "Arts and architecture",
+    "question": "Who wrote the novels Pride and Prejudice and Emma?",
+    "choices": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "George Eliot",
+      "Virginia Woolf"
+    ],
+    "answer": 1,
+    "explanation": "Jane Austen wrote both novels in the early 19th century."
+  },
+  {
+    "id": "uk-070",
+    "category": "Arts and architecture",
+    "question": "Which band, formed in Liverpool, became one of the most successful in music history?",
+    "choices": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Queen",
+      "Pink Floyd"
+    ],
+    "answer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became a global phenomenon in the 1960s."
+  },
+  {
+    "id": "uk-071",
+    "category": "Arts and architecture",
+    "question": "J.M.W. Turner and John Constable are best known for their work in which art form?",
+    "choices": [
+      "Sculpture",
+      "Landscape painting",
+      "Architecture",
+      "Pottery"
+    ],
+    "answer": 1,
+    "explanation": "Both were leading British landscape painters of the late 18th and early 19th centuries."
+  },
+  {
+    "id": "uk-072",
+    "category": "Arts and architecture",
+    "question": "What is the popular name for the clock tower at the Houses of Parliament?",
+    "choices": [
+      "Big Ben",
+      "Nelson's Column",
+      "The Shard",
+      "The London Eye"
+    ],
+    "answer": 0,
+    "explanation": "'Big Ben' technically refers to the great bell inside the tower, though the name is commonly used for the tower itself."
+  },
+  {
+    "id": "uk-073",
+    "category": "Arts and architecture",
+    "question": "Who designed St Paul's Cathedral, rebuilt after the Great Fire of London?",
+    "choices": [
+      "Christopher Wren",
+      "Inigo Jones",
+      "Charles Barry",
+      "Norman Foster"
+    ],
+    "answer": 0,
+    "explanation": "Sir Christopher Wren designed the cathedral, completed in 1710."
+  },
+  {
+    "id": "uk-074",
+    "category": "Arts and architecture",
+    "question": "Which prehistoric stone circle in Wiltshire is a UNESCO World Heritage Site?",
+    "choices": [
+      "Stonehenge",
+      "Hadrian's Wall",
+      "Edinburgh Castle",
+      "The Giant's Causeway"
+    ],
+    "answer": 0,
+    "explanation": "Stonehenge dates back around 5,000 years and remains one of the UK's best-known ancient monuments."
+  },
+  {
+    "id": "uk-075",
+    "category": "Arts and architecture",
+    "question": "The Giant's Causeway, a formation of interlocking basalt columns, is found in which part of the UK?",
+    "choices": [
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "Cornwall"
+    ],
+    "answer": 2,
+    "explanation": "It lies on the coast of County Antrim in Northern Ireland."
+  },
+  {
+    "id": "uk-076",
+    "category": "Arts and architecture",
+    "question": "Which composer, born in Germany, lived much of his life in England and wrote Messiah?",
+    "choices": [
+      "George Frideric Handel",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach"
+    ],
+    "answer": 0,
+    "explanation": "Handel settled in London and became a British subject; Messiah remains one of his best-known works."
+  },
+  {
+    "id": "uk-077",
+    "category": "Arts and architecture",
+    "question": "Charles Dickens, author of Oliver Twist and A Christmas Carol, is best known as a writer of which kind of work?",
+    "choices": [
+      "Poetry",
+      "Novels",
+      "Plays",
+      "Political essays"
+    ],
+    "answer": 1,
+    "explanation": "Dickens was one of the most popular novelists of the Victorian era."
+  },
+  {
+    "id": "uk-078",
+    "category": "Arts and architecture",
+    "question": "The Tate Modern gallery in London is housed in a former what?",
+    "choices": [
+      "Railway station",
+      "Power station",
+      "Prison",
+      "Palace"
+    ],
+    "answer": 1,
+    "explanation": "The gallery occupies the former Bankside Power Station on the south bank of the Thames."
+  },
+  {
+    "id": "uk-079",
+    "category": "Places of interest",
+    "question": "Which London museum is known for its collection including the Rosetta Stone?",
+    "choices": [
+      "The National Gallery",
+      "The British Museum",
+      "Tate Britain",
+      "The Science Museum"
+    ],
+    "answer": 1,
+    "explanation": "The British Museum holds the Rosetta Stone, key to deciphering Egyptian hieroglyphs."
+  },
+  {
+    "id": "uk-080",
+    "category": "Places of interest",
+    "question": "The Lake District, a national park known for its lakes and mountains, is in which part of England?",
+    "choices": [
+      "The South East",
+      "The North West",
+      "East Anglia",
+      "The Midlands"
+    ],
+    "answer": 1,
+    "explanation": "The Lake District lies in Cumbria, in the north-west of England."
+  },
+  {
+    "id": "uk-081",
+    "category": "Places of interest",
+    "question": "Which bridge stands beside the Tower of London on the River Thames?",
+    "choices": [
+      "London Bridge",
+      "Tower Bridge",
+      "Millennium Bridge",
+      "Waterloo Bridge"
+    ],
+    "answer": 1,
+    "explanation": "Tower Bridge, completed in 1894, is the famous bascule bridge next to the Tower of London."
+  },
+  {
+    "id": "uk-082",
+    "category": "Places of interest",
+    "question": "Loch Ness, said to be home to a mythical monster, is located in which country?",
+    "choices": [
+      "Wales",
+      "Scotland",
+      "Northern Ireland",
+      "England"
+    ],
+    "answer": 1,
+    "explanation": "Loch Ness lies in the Scottish Highlands."
+  },
+  {
+    "id": "uk-083",
+    "category": "Places of interest",
+    "question": "Where is the official residence of the Prime Minister?",
+    "choices": [
+      "10 Downing Street",
+      "Buckingham Palace",
+      "Chequers",
+      "The Houses of Parliament"
+    ],
+    "answer": 0,
+    "explanation": "10 Downing Street is the Prime Minister's official London residence; Chequers is their country residence."
+  },
+  {
+    "id": "uk-084",
+    "category": "Places of interest",
+    "question": "Which is the official royal residence in Edinburgh?",
+    "choices": [
+      "Edinburgh Castle",
+      "The Palace of Holyroodhouse",
+      "Balmoral Castle",
+      "Stirling Castle"
+    ],
+    "answer": 1,
+    "explanation": "Holyroodhouse is the monarch's official residence in Scotland, used for state occasions."
+  },
+  {
+    "id": "uk-085",
+    "category": "Places of interest",
+    "question": "Which university, founded in 1209, is one of the oldest in the English-speaking world?",
+    "choices": [
+      "Cambridge",
+      "Bristol",
+      "Leeds",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "The University of Cambridge was founded in 1209, after a group of scholars left Oxford."
+  },
+  {
+    "id": "uk-086",
+    "category": "Places of interest",
+    "question": "Windsor Castle, one of the official residences of the monarch, is in which country of the UK?",
+    "choices": [
+      "England",
+      "Wales",
+      "Scotland",
+      "Northern Ireland"
+    ],
+    "answer": 0,
+    "explanation": "Windsor Castle is in Berkshire, England, and is the oldest occupied castle in the world."
+  },
+  {
+    "id": "uk-087",
+    "category": "Community and volunteering",
+    "question": "What is a 'community centre' typically used for?",
+    "choices": [
+      "Local government offices only",
+      "Local activities and events for residents",
+      "Court hearings",
+      "National elections"
+    ],
+    "answer": 1,
+    "explanation": "Community centres host clubs, classes and events for people living in the local area."
+  },
+  {
+    "id": "uk-088",
+    "category": "Community and volunteering",
+    "question": "Which of these is an example of formal volunteering?",
+    "choices": [
+      "Helping out at a local charity shop",
+      "Watching television",
+      "Going on holiday",
+      "Doing paid overtime"
+    ],
+    "answer": 0,
+    "explanation": "Volunteering at a charity shop is unpaid work that benefits the community, a common form of formal volunteering in the UK."
+  },
+  {
+    "id": "uk-089",
+    "category": "Community and volunteering",
+    "question": "What is the name for a local elected representative who deals with issues in a small area, below the level of an MP?",
+    "choices": [
+      "A councillor",
+      "A senator",
+      "A governor",
+      "A magistrate"
+    ],
+    "answer": 0,
+    "explanation": "Councillors are elected to local councils and represent a local ward."
+  },
+  {
+    "id": "uk-090",
+    "category": "Community and volunteering",
+    "question": "Which body is typically responsible for local services such as rubbish collection and libraries?",
+    "choices": [
+      "The local council",
+      "The Home Office",
+      "The Cabinet",
+      "The House of Lords"
+    ],
+    "answer": 0,
+    "explanation": "Local councils deliver many day-to-day services, funded partly through council tax."
+  },
+  {
+    "id": "uk-091",
+    "category": "Community and volunteering",
+    "question": "Who can typically become a magistrate in England and Wales?",
+    "choices": [
+      "Only qualified judges",
+      "Volunteers from the local community, usually unpaid",
+      "Only police officers",
+      "Only Members of Parliament"
+    ],
+    "answer": 1,
+    "explanation": "Lay magistrates are ordinary members of the public who volunteer their time, supported by legal advisers."
+  },
+  {
+    "id": "uk-092",
+    "category": "Community and volunteering",
+    "question": "What is the purpose of a Neighbourhood Watch scheme?",
+    "choices": [
+      "To organise street parties",
+      "To help residents look out for suspicious activity and reduce crime",
+      "To collect taxes locally",
+      "To run local elections"
+    ],
+    "answer": 1,
+    "explanation": "Neighbourhood Watch groups are volunteer-run schemes that encourage residents to look out for each other's property."
+  },
+  {
+    "id": "uk-093",
+    "category": "Community and volunteering",
+    "question": "Which of these is a common way for people to get involved in their local community?",
+    "choices": [
+      "Serving on a jury or as a school governor",
+      "Refusing to pay taxes",
+      "Ignoring local elections",
+      "Avoiding local news"
+    ],
+    "answer": 0,
+    "explanation": "Jury service and school governorship are both cited as ways residents contribute to public life."
+  },
+  {
+    "id": "uk-094",
+    "category": "Community and volunteering",
+    "question": "What is the role of a school governor in the UK?",
+    "choices": [
+      "To teach lessons",
+      "To help oversee the running of a school on a voluntary basis",
+      "To inspect restaurants",
+      "To collect council tax"
+    ],
+    "answer": 1,
+    "explanation": "School governors are usually volunteers who help set the strategic direction of a school."
+  },
+  {
+    "id": "uk-095",
+    "category": "Government",
+    "question": "What is the title of the head of the UK government?",
+    "choices": [
+      "The President",
+      "The Prime Minister",
+      "The Chancellor",
+      "The Speaker"
+    ],
+    "answer": 1,
+    "explanation": "The Prime Minister leads the government and is normally the leader of the largest party in the Commons."
+  },
+  {
+    "id": "uk-096",
+    "category": "Government",
+    "question": "Who formally appoints the Prime Minister?",
+    "choices": [
+      "The House of Commons by a vote",
+      "The monarch, following a general election",
+      "The Supreme Court",
+      "The Cabinet"
+    ],
+    "answer": 1,
+    "explanation": "By convention, the monarch invites the leader most able to command the confidence of the Commons to form a government."
+  },
+  {
+    "id": "uk-097",
+    "category": "Government",
+    "question": "What is the title given to the leader of the largest party not in government?",
+    "choices": [
+      "Leader of the Opposition",
+      "Deputy Prime Minister",
+      "Lord Chancellor",
+      "Shadow Chancellor"
+    ],
+    "answer": 0,
+    "explanation": "The Leader of the Opposition heads the official opposition and its shadow cabinet."
+  },
+  {
+    "id": "uk-098",
+    "category": "Government",
+    "question": "The Cabinet is made up of whom?",
+    "choices": [
+      "All Members of Parliament",
+      "Senior ministers chosen by the Prime Minister",
+      "Members of the House of Lords only",
+      "Local councillors"
+    ],
+    "answer": 1,
+    "explanation": "The Cabinet is a group of senior ministers, each usually responsible for a government department."
+  },
+  {
+    "id": "uk-099",
+    "category": "Government",
+    "question": "What does a Member of Parliament (MP) do?",
+    "choices": [
+      "Represents a local constituency in the House of Commons",
+      "Runs a local council",
+      "Sits as a judge",
+      "Leads the armed forces"
+    ],
+    "answer": 0,
+    "explanation": "Each MP represents one of the UK's parliamentary constituencies."
+  },
+  {
+    "id": "uk-100",
+    "category": "Government",
+    "question": "The Supreme Court of the United Kingdom is the final court of appeal for which cases?",
+    "choices": [
+      "Only criminal cases in Scotland",
+      "Most civil and criminal cases across the UK",
+      "Only European Union cases",
+      "Only military cases"
+    ],
+    "answer": 1,
+    "explanation": "It hears appeals on the most significant legal issues, though Scottish criminal law has its own final court."
+  },
+  {
+    "id": "uk-101",
+    "category": "Government",
+    "question": "What does 'devolution' mean in relation to Scotland, Wales and Northern Ireland?",
+    "choices": [
+      "Full independence from the UK",
+      "The transfer of certain powers from Westminster to their own parliaments or assemblies",
+      "Abolishing local government",
+      "Joining a different country"
+    ],
+    "answer": 1,
+    "explanation": "Devolved administrations gained control over matters like health and education, while some powers stayed with Westminster."
+  },
+  {
+    "id": "uk-102",
+    "category": "Government",
+    "question": "Which of these is generally a devolved matter, decided by the Scottish Parliament rather than Westminster?",
+    "choices": [
+      "Defence",
+      "Foreign policy",
+      "Health and education in Scotland",
+      "Immigration policy"
+    ],
+    "answer": 2,
+    "explanation": "Defence, foreign policy and immigration remain reserved matters, decided at Westminster for the whole UK."
+  },
+  {
+    "id": "uk-103",
+    "category": "Government",
+    "question": "What best describes trial by jury?",
+    "choices": [
+      "A trial decided by a panel of ordinary citizens",
+      "A trial decided only by a judge",
+      "A trial decided by the Prime Minister",
+      "A trial with no verdict required"
+    ],
+    "answer": 0,
+    "explanation": "In more serious criminal cases, a jury of members of the public decides guilt or innocence."
+  },
+  {
+    "id": "uk-104",
+    "category": "Early history",
+    "question": "Which peoples settled in England after the Romans left, giving England much of its name and language?",
+    "choices": [
+      "The Vikings",
+      "The Anglo-Saxons",
+      "The Normans",
+      "The Romans"
+    ],
+    "answer": 1,
+    "explanation": "Anglo-Saxon settlers arrived from the 5th century, and 'England' derives from 'land of the Angles'."
+  },
+  {
+    "id": "uk-105",
+    "category": "Early history",
+    "question": "Alfred the Great, known for defending against Viking invasions, was king of which Anglo-Saxon kingdom?",
+    "choices": [
+      "Mercia",
+      "Wessex",
+      "Northumbria",
+      "East Anglia"
+    ],
+    "answer": 1,
+    "explanation": "Alfred ruled Wessex and is the only English monarch traditionally called 'the Great'."
+  },
+  {
+    "id": "uk-106",
+    "category": "Early history",
+    "question": "In which year did Vikings raid the monastery at Lindisfarne, often seen as the start of the Viking Age in Britain?",
+    "choices": [
+      "793",
+      "1066",
+      "1215",
+      "55 BC"
+    ],
+    "answer": 0,
+    "explanation": "The 793 raid on Lindisfarne shocked contemporaries and is a traditional marker of the start of Viking raids."
+  },
+  {
+    "id": "uk-107",
+    "category": "Early history",
+    "question": "Which Roman general led an invasion of Britain in 55 BC that did not lead to permanent occupation?",
+    "choices": [
+      "Hadrian",
+      "Julius Caesar",
+      "Claudius",
+      "Constantine"
+    ],
+    "answer": 1,
+    "explanation": "Caesar invaded twice, in 55 and 54 BC, but Roman occupation only began properly under Claudius in AD 43."
+  },
+  {
+    "id": "uk-108",
+    "category": "Early history",
+    "question": "The Roman conquest of Britain, under Emperor Claudius, began in which century?",
+    "choices": [
+      "1st century AD",
+      "5th century AD",
+      "11th century AD",
+      "3rd century BC"
+    ],
+    "answer": 0,
+    "explanation": "Claudius's forces invaded in AD 43, in the 1st century AD."
+  },
+  {
+    "id": "uk-109",
+    "category": "Early history",
+    "question": "What broke out in London in 1665, killing a large part of the population?",
+    "choices": [
+      "The Great Fire",
+      "The Great Plague",
+      "The Blitz",
+      "The Spanish flu"
+    ],
+    "answer": 1,
+    "explanation": "The Great Plague of 1665 killed an estimated 100,000 people in London."
+  },
+  {
+    "id": "uk-110",
+    "category": "Early history",
+    "question": "What happened in London in 1666, destroying much of the medieval city?",
+    "choices": [
+      "The Great Plague",
+      "The Great Fire of London",
+      "The Blitz",
+      "The Gunpowder Plot"
+    ],
+    "answer": 1,
+    "explanation": "The Great Fire started in a bakery on Pudding Lane and burned for four days."
+  },
+  {
+    "id": "uk-111",
+    "category": "The Tudors and Stuarts",
+    "question": "The English Civil War, fought between 1642 and 1651, was between supporters of the king and whom?",
+    "choices": [
+      "The Hundred Years' War rebels",
+      "Parliament",
+      "The Scottish clans",
+      "The Catholic Church"
+    ],
+    "answer": 1,
+    "explanation": "Royalists supporting Charles I fought Parliamentarian forces; Parliament ultimately won."
+  },
+  {
+    "id": "uk-112",
+    "category": "The Tudors and Stuarts",
+    "question": "Who led the parliamentary forces in the English Civil War and later ruled as Lord Protector?",
+    "choices": [
+      "Oliver Cromwell",
+      "Charles II",
+      "The Duke of Wellington",
+      "Robert Walpole"
+    ],
+    "answer": 0,
+    "explanation": "Cromwell led the New Model Army and ruled England as Lord Protector from 1653 until his death in 1658."
+  },
+  {
+    "id": "uk-113",
+    "category": "A global power",
+    "question": "Who is generally regarded as Britain's first Prime Minister, serving from the early 1720s?",
+    "choices": [
+      "Robert Walpole",
+      "William Pitt",
+      "Winston Churchill",
+      "Benjamin Disraeli"
+    ],
+    "answer": 0,
+    "explanation": "Robert Walpole is traditionally considered the first Prime Minister, holding the role from 1721 to 1742."
+  },
+  {
+    "id": "uk-114",
+    "category": "A global power",
+    "question": "The Industrial Revolution, which began in Britain, was centred on innovations in which areas?",
+    "choices": [
+      "Farming only",
+      "Steam power, textiles and manufacturing",
+      "Space travel",
+      "Digital computing"
+    ],
+    "answer": 1,
+    "explanation": "New machinery and steam power transformed textile production and manufacturing from the mid-18th century."
+  },
+  {
+    "id": "uk-115",
+    "category": "A global power",
+    "question": "In which century did the Industrial Revolution begin in Britain?",
+    "choices": [
+      "16th century",
+      "18th century",
+      "20th century",
+      "14th century"
+    ],
+    "answer": 1,
+    "explanation": "It's generally dated from around the 1760s, in the 18th century."
+  },
+  {
+    "id": "uk-116",
+    "category": "The 20th century",
+    "question": "Ireland was partitioned in 1921, creating Northern Ireland and an independent state that later became which country?",
+    "choices": [
+      "The Republic of Ireland",
+      "Scotland",
+      "The Isle of Man",
+      "Wales"
+    ],
+    "answer": 0,
+    "explanation": "The Irish Free State was established in 1922 and later became the Republic of Ireland."
+  },
+  {
+    "id": "uk-117",
+    "category": "The 20th century",
+    "question": "The Good Friday Agreement of 1998 was a peace agreement relating to which part of the UK?",
+    "choices": [
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "Cornwall"
+    ],
+    "answer": 2,
+    "explanation": "It largely brought an end to decades of violence known as the Troubles in Northern Ireland."
+  },
+  {
+    "id": "uk-118",
+    "category": "The 20th century",
+    "question": "In which year did the UK join the European Economic Community, a forerunner of the EU?",
+    "choices": [
+      "1945",
+      "1973",
+      "1992",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation": "The UK joined in 1973, after earlier applications had been vetoed by France."
+  },
+  {
+    "id": "uk-119",
+    "category": "The 20th century",
+    "question": "In which year did the UK formally leave the European Union?",
+    "choices": [
+      "2016",
+      "2018",
+      "2020",
+      "2022"
+    ],
+    "answer": 2,
+    "explanation": "The 2016 referendum decided the question, but the UK formally left on 31 January 2020."
+  },
+  {
+    "id": "uk-120",
+    "category": "The 20th century",
+    "question": "What was rationing, introduced during the Second World War?",
+    "choices": [
+      "A system limiting the amount of food and goods people could buy",
+      "A tax on wages",
+      "A ban on travel abroad",
+      "A type of currency"
+    ],
+    "answer": 0,
+    "explanation": "Rationing controlled the distribution of scarce goods like food, clothing and fuel."
+  },
+  {
+    "id": "uk-121",
+    "category": "The 20th century",
+    "question": "What does 'the Blitz' refer to?",
+    "choices": [
+      "The German bombing campaign against British cities in WWII",
+      "A British naval battle",
+      "A rationing scheme",
+      "A political scandal"
+    ],
+    "answer": 0,
+    "explanation": "The Blitz was a sustained German bombing campaign against London and other cities from 1940-41."
+  },
+  {
+    "id": "uk-122",
+    "category": "The 20th century",
+    "question": "Which British queen had the longest reign in UK history, until her death in 2022?",
+    "choices": [
+      "Queen Victoria",
+      "Queen Elizabeth II",
+      "Queen Anne",
+      "Queen Mary"
+    ],
+    "answer": 1,
+    "explanation": "Elizabeth II reigned for over 70 years, from 1952 to 2022, the longest of any British monarch."
+  },
+  {
+    "id": "uk-123",
+    "category": "The 20th century",
+    "question": "In which year did Elizabeth II become queen, following the death of her father George VI?",
+    "choices": [
+      "1945",
+      "1952",
+      "1960",
+      "1937"
+    ],
+    "answer": 1,
+    "explanation": "She became queen in February 1952, though her coronation was in 1953."
+  },
+  {
+    "id": "uk-124",
+    "category": "The 20th century",
+    "question": "Who succeeded Queen Elizabeth II as monarch on her death in September 2022?",
+    "choices": [
+      "King Charles III",
+      "Prince William",
+      "Prince Harry",
+      "Prince Andrew"
+    ],
+    "answer": 0,
+    "explanation": "Charles, her eldest son and heir, became King Charles III immediately on her death."
+  },
+  {
+    "id": "uk-125",
+    "category": "Traditions and culture",
+    "question": "What is traditionally eaten on Christmas Day in the UK?",
+    "choices": [
+      "Turkey",
+      "Fish and chips",
+      "Sushi",
+      "Paella"
+    ],
+    "answer": 0,
+    "explanation": "A roast turkey dinner is the most common traditional Christmas meal."
+  },
+  {
+    "id": "uk-126",
+    "category": "Traditions and culture",
+    "question": "Pancake Day (Shrove Tuesday) traditionally falls the day before which occasion?",
+    "choices": [
+      "Christmas",
+      "The start of Lent (Ash Wednesday)",
+      "Easter Sunday",
+      "New Year's Day"
+    ],
+    "answer": 1,
+    "explanation": "Pancakes were a way to use up rich ingredients before the fasting period of Lent began."
+  },
+  {
+    "id": "uk-127",
+    "category": "Traditions and culture",
+    "question": "What is traditionally given on 1 April, April Fools' Day?",
+    "choices": [
+      "Gifts",
+      "Practical jokes or hoaxes",
+      "Cards",
+      "Flowers"
+    ],
+    "answer": 1,
+    "explanation": "People play harmless tricks or spread hoaxes on friends and family, traditionally until midday."
+  },
+  {
+    "id": "uk-128",
+    "category": "Traditions and culture",
+    "question": "Mothering Sunday (Mother's Day) in the UK falls on which occasion?",
+    "choices": [
+      "The first Sunday in May",
+      "25 March every year",
+      "The fourth Sunday of Lent",
+      "The last Sunday in August"
+    ],
+    "answer": 2,
+    "explanation": "Unlike the US, the UK ties Mothering Sunday to the Christian calendar, so its date moves each year."
+  },
+  {
+    "id": "uk-129",
+    "category": "Traditions and culture",
+    "question": "'Trick or treating' is a tradition associated with which occasion?",
+    "choices": [
+      "Christmas",
+      "Halloween",
+      "Easter",
+      "Bonfire Night"
+    ],
+    "answer": 1,
+    "explanation": "Children dress in costume and go door to door on 31 October, Halloween."
+  },
+  {
+    "id": "uk-130",
+    "category": "Traditions and culture",
+    "question": "What is a 'pantomime', traditionally performed around Christmas?",
+    "choices": [
+      "A silent film",
+      "A comic theatrical performance often based on a fairy tale",
+      "A type of choir",
+      "A religious sermon"
+    ],
+    "answer": 1,
+    "explanation": "Pantomimes are family shows featuring music, comedy and audience participation, often based on stories like Cinderella."
+  },
+  {
+    "id": "uk-131",
+    "category": "Traditions and culture",
+    "question": "Hot cross buns are traditionally eaten around which holiday?",
+    "choices": [
+      "Christmas",
+      "Easter",
+      "Halloween",
+      "Bonfire Night"
+    ],
+    "answer": 1,
+    "explanation": "The spiced buns, marked with a cross, are traditionally eaten on Good Friday and throughout Easter."
+  },
+  {
+    "id": "uk-132",
+    "category": "Traditions and culture",
+    "question": "The Notting Hill Carnival, one of the largest street festivals in Europe, celebrates which community's culture?",
+    "choices": [
+      "Chinese",
+      "Caribbean",
+      "Polish",
+      "Irish"
+    ],
+    "answer": 1,
+    "explanation": "The carnival began in the 1960s and celebrates British Caribbean culture and music."
+  },
+  {
+    "id": "uk-133",
+    "category": "Traditions and culture",
+    "question": "What is a 'ceilidh', a traditional social gathering found in Scotland and Ireland?",
+    "choices": [
+      "A social event with folk music and dancing",
+      "A religious ceremony",
+      "A sporting event",
+      "A court hearing"
+    ],
+    "answer": 0,
+    "explanation": "A ceilidh is an informal gathering featuring traditional music and dance."
+  },
+  {
+    "id": "uk-134",
+    "category": "The UK today",
+    "question": "Which sea separates Great Britain from Ireland?",
+    "choices": [
+      "The North Sea",
+      "The Irish Sea",
+      "The English Channel",
+      "The Celtic Sea"
+    ],
+    "answer": 1,
+    "explanation": "The Irish Sea lies between the island of Great Britain and the island of Ireland."
+  },
+  {
+    "id": "uk-135",
+    "category": "The UK today",
+    "question": "Which stretch of water separates England from France at its narrowest point?",
+    "choices": [
+      "The Irish Sea",
+      "The English Channel",
+      "The North Sea",
+      "The Bristol Channel"
+    ],
+    "answer": 1,
+    "explanation": "The English Channel is narrowest at the Strait of Dover, about 33 km wide."
+  },
+  {
+    "id": "uk-136",
+    "category": "The UK today",
+    "question": "What is the longest river in the UK?",
+    "choices": [
+      "The Thames",
+      "The Severn",
+      "The Trent",
+      "The Mersey"
+    ],
+    "answer": 1,
+    "explanation": "The River Severn, at about 220 miles, is slightly longer than the Thames."
+  },
+  {
+    "id": "uk-137",
+    "category": "The UK today",
+    "question": "Which is the most populous city in England after London?",
+    "choices": [
+      "Manchester",
+      "Birmingham",
+      "Leeds",
+      "Liverpool"
+    ],
+    "answer": 1,
+    "explanation": "Birmingham has around 1.1 million residents within the city itself, making it the most populous English city after London. It's sometimes informally called the UK's 'second city', though Manchester disputes that title, and the two are commonly ranked differently once wider metropolitan areas are counted instead of the city proper."
+  },
+  {
+    "id": "uk-138",
+    "category": "The UK today",
+    "question": "Which of these cities is the capital of Northern Ireland?",
+    "choices": [
+      "Derry",
+      "Belfast",
+      "Armagh",
+      "Newry"
+    ],
+    "answer": 1,
+    "explanation": "Belfast is the capital and largest city of Northern Ireland."
+  },
+  {
+    "id": "uk-139",
+    "category": "The UK today",
+    "question": "What currency is used in the United Kingdom?",
+    "choices": [
+      "The Euro",
+      "The Pound sterling",
+      "The Dollar",
+      "The Franc"
+    ],
+    "answer": 1,
+    "explanation": "The UK uses the pound sterling; it did not adopt the Euro even while an EU member."
+  },
+  {
+    "id": "uk-140",
+    "category": "The UK today",
+    "question": "Which of these is NOT a UK bank holiday?",
+    "choices": [
+      "New Year's Day",
+      "Boxing Day",
+      "Thanksgiving",
+      "Easter Monday"
+    ],
+    "answer": 2,
+    "explanation": "Thanksgiving is a US and Canadian holiday and is not observed as a UK bank holiday."
+  },
+  {
+    "id": "uk-141",
+    "category": "The UK today",
+    "question": "What is the name of the UK's national anthem?",
+    "choices": [
+      "Jerusalem",
+      "God Save the King",
+      "Land of Hope and Glory",
+      "Rule Britannia"
+    ],
+    "answer": 1,
+    "explanation": "'God Save the King' (or 'the Queen', depending on the monarch) is the UK's national anthem."
   }
 ]
