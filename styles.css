@@ -173,6 +173,42 @@ h1 {
   margin-top: 1.75rem;
 }
 
+.btn__title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge {
+  background: var(--gold);
+  color: var(--surface);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  line-height: 1.4;
+}
+
+.topic-divider {
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  margin: 1.75rem 0 1rem;
+  position: relative;
+}
+.topic-divider::before,
+.topic-divider::after {
+  content: '';
+  display: inline-block;
+  width: 2.5rem;
+  height: 1px;
+  background: var(--line);
+  vertical-align: middle;
+  margin: 0 0.75rem;
+}
+
 .btn__note {
   display: block;
   font-size: 0.8rem;

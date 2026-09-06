@@ -1831,5 +1831,2605 @@
     ],
     "answer": 1,
     "explanation": "'God Save the King' (or 'the Queen', depending on the monarch) is the UK's national anthem."
+  },
+  {
+    "id": "uk-142",
+    "category": "Traditions and culture",
+    "question": "What is traditionally pulled apart with a bang at Christmas, containing a paper hat, a joke and a small gift?",
+    "choices": [
+      "A Christmas cracker",
+      "A mince pie",
+      "A stocking",
+      "A wreath"
+    ],
+    "answer": 0,
+    "explanation": "Christmas crackers are a British tradition dating back to the Victorian era, pulled by two people at the table."
+  },
+  {
+    "id": "uk-143",
+    "category": "Traditions and culture",
+    "question": "What is the traditional royal broadcast, given every year on 25 December, called?",
+    "choices": [
+      "The Christmas Broadcast",
+      "The State Opening Speech",
+      "The Trooping Address",
+      "The Silent Toast"
+    ],
+    "answer": 0,
+    "explanation": "The tradition began in 1932 with King George V on the radio, and was first televised in 1957."
+  },
+  {
+    "id": "uk-144",
+    "category": "Traditions and culture",
+    "question": "Bonfire Night on 5 November is also known by which other name?",
+    "choices": [
+      "Guy Fawkes Night",
+      "Twelfth Night",
+      "Candlemas",
+      "Michaelmas"
+    ],
+    "answer": 0,
+    "explanation": "It commemorates the failure of the 1605 Gunpowder Plot, of which Guy Fawkes was a conspirator."
+  },
+  {
+    "id": "uk-145",
+    "category": "Traditions and culture",
+    "question": "What is 'Twelfth Night' traditionally associated with?",
+    "choices": [
+      "The end of the Christmas season",
+      "The start of Lent",
+      "Midsummer",
+      "Harvest festival"
+    ],
+    "answer": 0,
+    "explanation": "Falling on 5 or 6 January, it traditionally marks the end of the twelve days of Christmas, when decorations come down."
+  },
+  {
+    "id": "uk-146",
+    "category": "Traditions and culture",
+    "question": "What is a 'harvest festival' traditionally a celebration of?",
+    "choices": [
+      "The gathering of crops at the end of summer",
+      "The start of spring",
+      "The Christian festival of Easter",
+      "The coronation of the monarch"
+    ],
+    "answer": 0,
+    "explanation": "Harvest festivals, often held in churches and schools, give thanks for the year's crops."
+  },
+  {
+    "id": "uk-147",
+    "category": "Traditions and culture",
+    "question": "What is traditionally sold to raise money for the Royal British Legion around Remembrance Day?",
+    "choices": [
+      "Paper poppies",
+      "Christmas cards",
+      "Daffodils",
+      "Ribbons"
+    ],
+    "answer": 0,
+    "explanation": "The annual Poppy Appeal raises funds to support the armed forces community."
+  },
+  {
+    "id": "uk-148",
+    "category": "Traditions and culture",
+    "question": "What is a 'Sunday roast', a traditional British meal?",
+    "choices": [
+      "A roast dinner, typically with meat, potatoes and vegetables, eaten on Sundays",
+      "A dessert eaten only at Christmas",
+      "A type of sandwich",
+      "A breakfast dish"
+    ],
+    "answer": 0,
+    "explanation": "The Sunday roast remains a widely-observed weekly tradition in many British households and pubs."
+  },
+  {
+    "id": "uk-149",
+    "category": "Traditions and culture",
+    "question": "Afternoon tea, a traditional British custom, typically includes which of these?",
+    "choices": [
+      "Sandwiches, scones and cakes, served with tea",
+      "A three-course dinner",
+      "Only coffee and biscuits",
+      "A cooked breakfast"
+    ],
+    "answer": 0,
+    "explanation": "Afternoon tea developed in the 19th century as a light meal served between lunch and dinner."
+  },
+  {
+    "id": "uk-150",
+    "category": "Traditions and culture",
+    "question": "What is 'Morris dancing', a traditional English folk dance?",
+    "choices": [
+      "A dance performed with bells, sticks or handkerchiefs, often outdoors",
+      "A ballroom dance",
+      "A dance performed only at weddings",
+      "A dance from Scotland"
+    ],
+    "answer": 0,
+    "explanation": "Morris dancing has roots going back centuries and is still performed at fairs and festivals across England."
+  },
+  {
+    "id": "uk-151",
+    "category": "Traditions and culture",
+    "question": "What is the significance of Trooping the Colour, an annual ceremony in London?",
+    "choices": [
+      "It marks the monarch's official birthday",
+      "It celebrates the New Year",
+      "It marks the anniversary of the coronation",
+      "It celebrates Remembrance Day"
+    ],
+    "answer": 0,
+    "explanation": "Trooping the Colour is held each June in London as the monarch's official birthday parade, regardless of their actual birth date."
+  },
+  {
+    "id": "uk-152",
+    "category": "Traditions and culture",
+    "question": "What is Boxing Day, the day after Christmas, traditionally associated with in the UK?",
+    "choices": [
+      "Giving gifts to tradespeople historically, and now often sales and sport",
+      "A religious fast",
+      "The start of Advent",
+      "A day of silence"
+    ],
+    "answer": 0,
+    "explanation": "Boxing Day is a bank holiday historically linked to giving 'Christmas boxes' to servants and tradespeople."
+  },
+  {
+    "id": "uk-153",
+    "category": "Traditions and culture",
+    "question": "May Day, celebrated on 1 May, is traditionally associated with which of these customs?",
+    "choices": [
+      "Maypole dancing",
+      "Trick or treating",
+      "Carol singing",
+      "Pancake races"
+    ],
+    "answer": 0,
+    "explanation": "May Day customs, including dancing around a decorated maypole, mark the start of summer in English folk tradition."
+  },
+  {
+    "id": "uk-154",
+    "category": "Traditions and culture",
+    "question": "What is a 'wassail', a traditional custom especially in English cider-producing regions?",
+    "choices": [
+      "A toast or celebration to bless orchards and ensure a good harvest",
+      "A type of dance",
+      "A Christmas play",
+      "A religious fast"
+    ],
+    "answer": 0,
+    "explanation": "Wassailing traditionally takes place in winter and involves singing to apple trees to encourage a good crop."
+  },
+  {
+    "id": "uk-155",
+    "category": "Traditions and culture",
+    "question": "Which of these is a well-known British seaside tradition?",
+    "choices": [
+      "Fish and chips eaten by the sea",
+      "Bullfighting",
+      "Ice hockey",
+      "Skiing"
+    ],
+    "answer": 0,
+    "explanation": "Fish and chips, often eaten outdoors at the seaside, is one of Britain's best-known food traditions."
+  },
+  {
+    "id": "uk-156",
+    "category": "Traditions and culture",
+    "question": "Effigies of Guy Fawkes are traditionally burned on bonfires on 5 November. Who was he?",
+    "choices": [
+      "One of the conspirators in the 1605 Gunpowder Plot",
+      "A king of England",
+      "A poet",
+      "A war hero"
+    ],
+    "answer": 0,
+    "explanation": "Fawkes was caught guarding explosives beneath the Houses of Parliament as part of a failed plot to kill the king."
+  },
+  {
+    "id": "uk-157",
+    "category": "Traditions and culture",
+    "question": "What is a 'Pantomime Dame', a stock character in British pantomime?",
+    "choices": [
+      "A comic older woman role usually played by a man",
+      "A villain",
+      "A fairy godmother",
+      "A prince"
+    ],
+    "answer": 0,
+    "explanation": "The Dame is a comic tradition of British pantomime, played for laughs by a male actor in exaggerated costume."
+  },
+  {
+    "id": "uk-158",
+    "category": "Traditions and culture",
+    "question": "The Chelsea Flower Show is a famous annual event in which field?",
+    "choices": [
+      "Gardening and horticulture",
+      "Fashion",
+      "Motor racing",
+      "Literature"
+    ],
+    "answer": 0,
+    "explanation": "Held in London and organised by the Royal Horticultural Society, it is one of the world's most famous garden shows."
+  },
+  {
+    "id": "uk-159",
+    "category": "Traditions and culture",
+    "question": "What is the Edinburgh Festival Fringe?",
+    "choices": [
+      "The world's largest arts festival, held annually in Edinburgh",
+      "A Scottish sporting tournament",
+      "A political conference",
+      "A royal ceremony"
+    ],
+    "answer": 0,
+    "explanation": "Held every August, the Fringe features thousands of performances across comedy, theatre and music."
+  },
+  {
+    "id": "uk-160",
+    "category": "Traditions and culture",
+    "question": "What best describes a UK bank holiday?",
+    "choices": [
+      "Most banks and many businesses are traditionally closed",
+      "Only banks are open",
+      "Schools have exams",
+      "Parliament is dissolved"
+    ],
+    "answer": 0,
+    "explanation": "Bank holidays are set public holidays, though dates and some observances differ slightly between England, Scotland and Northern Ireland."
+  },
+  {
+    "id": "uk-161",
+    "category": "Traditions and culture",
+    "question": "Carol singing is a tradition especially associated with which time of year?",
+    "choices": [
+      "Christmas",
+      "Halloween",
+      "Easter",
+      "Summer"
+    ],
+    "answer": 0,
+    "explanation": "Carols are traditional songs sung especially in the run-up to Christmas, often door-to-door or in churches."
+  },
+  {
+    "id": "uk-162",
+    "category": "The 20th century",
+    "question": "In which year did the First World War begin?",
+    "choices": [
+      "1914",
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "answer": 0,
+    "explanation": "The war began in 1914 following the assassination of Archduke Franz Ferdinand."
+  },
+  {
+    "id": "uk-163",
+    "category": "The 20th century",
+    "question": "In which year did the First World War end?",
+    "choices": [
+      "1914",
+      "1918",
+      "1939",
+      "1945"
+    ],
+    "answer": 1,
+    "explanation": "An armistice was signed on 11 November 1918, ending the fighting."
+  },
+  {
+    "id": "uk-164",
+    "category": "The 20th century",
+    "question": "In which year did the Second World War begin, when Britain declared war on Germany?",
+    "choices": [
+      "1914",
+      "1939",
+      "1941",
+      "1945"
+    ],
+    "answer": 1,
+    "explanation": "Britain declared war on 3 September 1939, following Germany's invasion of Poland."
+  },
+  {
+    "id": "uk-165",
+    "category": "The 20th century",
+    "question": "In which year did the Second World War end in Europe (VE Day)?",
+    "choices": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "answer": 2,
+    "explanation": "Victory in Europe Day was 8 May 1945, marking Germany's surrender."
+  },
+  {
+    "id": "uk-166",
+    "category": "The 20th century",
+    "question": "What does 'VE Day' stand for?",
+    "choices": [
+      "Victory in Europe Day",
+      "Victory Everywhere Day",
+      "Veterans' Emergency Day",
+      "Victory Expansion Day"
+    ],
+    "answer": 0,
+    "explanation": "VE Day, 8 May 1945, marked the formal end of the Second World War in Europe."
+  },
+  {
+    "id": "uk-167",
+    "category": "The 20th century",
+    "question": "What was the name of the mass evacuation of Allied soldiers from a French beach in 1940?",
+    "choices": [
+      "The Dunkirk evacuation",
+      "The D-Day landings",
+      "The Battle of Britain",
+      "The Siege of Malta"
+    ],
+    "answer": 0,
+    "explanation": "Over 300,000 troops were evacuated from Dunkirk in 1940 using naval vessels and civilian boats."
+  },
+  {
+    "id": "uk-168",
+    "category": "The 20th century",
+    "question": "What was 'D-Day', 6 June 1944?",
+    "choices": [
+      "The Allied invasion of Normandy",
+      "The bombing of Berlin",
+      "The evacuation of Dunkirk",
+      "The signing of the Treaty of Versailles"
+    ],
+    "answer": 0,
+    "explanation": "D-Day marked the start of the Allied invasion of Nazi-occupied France, a turning point in the war."
+  },
+  {
+    "id": "uk-169",
+    "category": "The 20th century",
+    "question": "The Battle of Britain in 1940 was fought primarily in which arena?",
+    "choices": [
+      "The air, over southern England",
+      "At sea, in the Atlantic",
+      "On land, in North Africa",
+      "In the mountains of Italy"
+    ],
+    "answer": 0,
+    "explanation": "The RAF defended Britain against the German Luftwaffe in a prolonged air campaign in 1940."
+  },
+  {
+    "id": "uk-170",
+    "category": "The 20th century",
+    "question": "Who was the wartime Prime Minister before Winston Churchill took over in 1940?",
+    "choices": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Stanley Baldwin",
+      "Anthony Eden"
+    ],
+    "answer": 0,
+    "explanation": "Chamberlain resigned in May 1940 after losing the confidence of the Commons; Churchill succeeded him."
+  },
+  {
+    "id": "uk-171",
+    "category": "The 20th century",
+    "question": "Which party's leader, Clement Attlee, became Prime Minister after defeating Churchill in the 1945 general election?",
+    "choices": [
+      "The Labour Party",
+      "The Conservative Party",
+      "The Liberal Party",
+      "The Green Party"
+    ],
+    "answer": 0,
+    "explanation": "Labour's surprise landslide victory in 1945 brought major reforms including the founding of the NHS."
+  },
+  {
+    "id": "uk-172",
+    "category": "The 20th century",
+    "question": "In which decade was the Race Relations Act, the UK's first law against racial discrimination, passed?",
+    "choices": [
+      "The 1950s",
+      "The 1960s",
+      "The 1980s",
+      "The 2000s"
+    ],
+    "answer": 1,
+    "explanation": "The Race Relations Act 1965 was the UK's first legislation addressing racial discrimination in public places."
+  },
+  {
+    "id": "uk-173",
+    "category": "The 20th century",
+    "question": "The Beveridge Report of 1942 laid the foundations for what?",
+    "choices": [
+      "The modern welfare state",
+      "The National Trust",
+      "The BBC",
+      "The Bank of England"
+    ],
+    "answer": 0,
+    "explanation": "William Beveridge's report identified 'five giant evils' and shaped post-war reforms including the NHS and social security."
+  },
+  {
+    "id": "uk-174",
+    "category": "The 20th century",
+    "question": "What is the name of the period of sustained cultural change in 1960s Britain, associated with fashion and bands like The Beatles?",
+    "choices": [
+      "The Swinging Sixties",
+      "The Roaring Twenties",
+      "The Gilded Age",
+      "The Belle Epoque"
+    ],
+    "answer": 0,
+    "explanation": "The term describes the youth-driven cultural boom in fashion, music and art in 1960s London."
+  },
+  {
+    "id": "uk-175",
+    "category": "The 20th century",
+    "question": "The Falklands War of 1982 was fought between the UK and which country?",
+    "choices": [
+      "Argentina",
+      "Spain",
+      "Chile",
+      "Brazil"
+    ],
+    "answer": 0,
+    "explanation": "Argentina invaded the British-controlled Falkland Islands in 1982; the UK retook them after a short conflict."
+  },
+  {
+    "id": "uk-176",
+    "category": "The 20th century",
+    "question": "Margaret Thatcher, who became Prime Minister in 1979, was the UK's first what?",
+    "choices": [
+      "Female Prime Minister",
+      "Female monarch",
+      "Female Chancellor of the Exchequer",
+      "Female Speaker of the Commons"
+    ],
+    "answer": 0,
+    "explanation": "Thatcher led the Conservative Party to victory in 1979 and served as Prime Minister until 1990."
+  },
+  {
+    "id": "uk-177",
+    "category": "The 20th century",
+    "question": "The Suez Crisis of 1956 involved the UK, France and Israel in a conflict over control of what?",
+    "choices": [
+      "The Suez Canal",
+      "The Persian Gulf",
+      "The Strait of Gibraltar",
+      "The Panama Canal"
+    ],
+    "answer": 0,
+    "explanation": "The crisis followed Egypt's nationalisation of the canal and badly damaged Britain's international standing."
+  },
+  {
+    "id": "uk-178",
+    "category": "The 20th century",
+    "question": "Which decade saw the rapid decline of the British Empire, including Indian independence in 1947?",
+    "choices": [
+      "The 1920s",
+      "The 1940s",
+      "The 1960s",
+      "The 1980s"
+    ],
+    "answer": 1,
+    "explanation": "India and Pakistan gained independence in 1947, beginning a wider process of decolonisation."
+  },
+  {
+    "id": "uk-179",
+    "category": "The 20th century",
+    "question": "The 'Windrush generation' refers to which group of people?",
+    "choices": [
+      "Caribbean migrants who arrived in the UK after 1948, invited to help rebuild after the war",
+      "Refugees from the Spanish Civil War",
+      "Evacuated children during WWII",
+      "Migrants from Australia"
+    ],
+    "answer": 0,
+    "explanation": "Named after the ship MV Empire Windrush, which arrived in 1948 carrying migrants from the Caribbean."
+  },
+  {
+    "id": "uk-180",
+    "category": "Government",
+    "question": "What is a 'constituency' in UK politics?",
+    "choices": [
+      "A geographic area represented by one MP",
+      "A political party",
+      "A government department",
+      "A type of law"
+    ],
+    "answer": 0,
+    "explanation": "The UK is divided into parliamentary constituencies, each electing one MP to the House of Commons."
+  },
+  {
+    "id": "uk-181",
+    "category": "Government",
+    "question": "What is a 'general election' in the UK?",
+    "choices": [
+      "A nationwide vote to elect MPs to the House of Commons",
+      "A vote to elect the monarch",
+      "A local council election only",
+      "A referendum on a single issue"
+    ],
+    "answer": 0,
+    "explanation": "General elections decide the make-up of the House of Commons and, by convention, who forms the government."
+  },
+  {
+    "id": "uk-182",
+    "category": "Government",
+    "question": "What voting system is used to elect MPs to the House of Commons?",
+    "choices": [
+      "First past the post",
+      "Proportional representation",
+      "Alternative vote",
+      "Single transferable vote"
+    ],
+    "answer": 0,
+    "explanation": "Under first past the post, the candidate with the most votes in each constituency wins the seat."
+  },
+  {
+    "id": "uk-183",
+    "category": "Government",
+    "question": "What is a 'by-election'?",
+    "choices": [
+      "An election held to fill a single vacant seat between general elections",
+      "An election for local council only",
+      "A second round of a general election",
+      "An election held only in Scotland"
+    ],
+    "answer": 0,
+    "explanation": "By-elections are triggered when an MP dies, resigns or is otherwise unable to continue in the seat."
+  },
+  {
+    "id": "uk-184",
+    "category": "Government",
+    "question": "Which of these is a role of the House of Lords?",
+    "choices": [
+      "Scrutinising and revising legislation proposed by the Commons",
+      "Electing the Prime Minister",
+      "Collecting taxes directly",
+      "Running local councils"
+    ],
+    "answer": 0,
+    "explanation": "The Lords reviews and can propose amendments to bills, though the Commons generally has the final say."
+  },
+  {
+    "id": "uk-185",
+    "category": "Government",
+    "question": "What is 'Prime Minister's Questions' (PMQs)?",
+    "choices": [
+      "A weekly session where MPs question the Prime Minister in the Commons",
+      "A televised leaders' debate held once a year",
+      "A written exam for new MPs",
+      "A ceremony marking the state opening of Parliament"
+    ],
+    "answer": 0,
+    "explanation": "PMQs takes place weekly while Parliament is sitting and is a key moment of scrutiny and debate."
+  },
+  {
+    "id": "uk-186",
+    "category": "Government",
+    "question": "What is the 'State Opening of Parliament'?",
+    "choices": [
+      "A ceremony marking the formal start of a parliamentary session, attended by the monarch",
+      "A referendum",
+      "The first meeting of a new local council",
+      "A ceremony to appoint judges"
+    ],
+    "answer": 0,
+    "explanation": "The monarch delivers a speech, written by the government, setting out its legislative programme for the year ahead."
+  },
+  {
+    "id": "uk-187",
+    "category": "Government",
+    "question": "Who is the head of state of the United Kingdom?",
+    "choices": [
+      "The monarch",
+      "The Prime Minister",
+      "The Speaker",
+      "The Lord Chancellor"
+    ],
+    "answer": 0,
+    "explanation": "The monarch is head of state, a largely ceremonial role distinct from the Prime Minister, who is head of government."
+  },
+  {
+    "id": "uk-188",
+    "category": "Government",
+    "question": "What is the difference between a 'head of state' and a 'head of government' in the UK?",
+    "choices": [
+      "The monarch is head of state, while the Prime Minister is head of government",
+      "They are the same person",
+      "The Prime Minister is head of state",
+      "Parliament fills both roles"
+    ],
+    "answer": 0,
+    "explanation": "This separation means the ceremonial and political leadership roles are held by different people."
+  },
+  {
+    "id": "uk-189",
+    "category": "Government",
+    "question": "UK political parties are funded partly by what?",
+    "choices": [
+      "Membership fees and donations",
+      "Compulsory taxes on all citizens",
+      "Direct payments from the monarch",
+      "Fines from the courts"
+    ],
+    "answer": 0,
+    "explanation": "Parties rely on membership subscriptions, donations and some public funding, within rules set by electoral law."
+  },
+  {
+    "id": "uk-190",
+    "category": "Government",
+    "question": "What is a 'referendum'?",
+    "choices": [
+      "A direct vote by the electorate on a single question or issue",
+      "A vote to select a new Prime Minister",
+      "A vote held only in the House of Lords",
+      "A type of general election"
+    ],
+    "answer": 0,
+    "explanation": "Referendums put a specific question directly to voters, rather than electing representatives."
+  },
+  {
+    "id": "uk-191",
+    "category": "Government",
+    "question": "The 2016 UK referendum asked voters about membership of which organisation?",
+    "choices": [
+      "The European Union",
+      "The United Nations",
+      "NATO",
+      "The Commonwealth"
+    ],
+    "answer": 0,
+    "explanation": "The 2016 referendum resulted in a vote to leave the EU, with the UK formally leaving in January 2020."
+  },
+  {
+    "id": "uk-192",
+    "category": "Government",
+    "question": "What is the role of the Chancellor of the Exchequer?",
+    "choices": [
+      "The government minister responsible for the economy and finances",
+      "The head of the judiciary",
+      "The leader of the House of Lords",
+      "The head of the civil service"
+    ],
+    "answer": 0,
+    "explanation": "The Chancellor manages the Treasury and delivers the annual Budget setting out tax and spending plans."
+  },
+  {
+    "id": "uk-193",
+    "category": "Government",
+    "question": "Which government department is responsible for immigration, policing and national security in the UK?",
+    "choices": [
+      "The Home Office",
+      "The Treasury",
+      "The Foreign Office",
+      "The Department of Health"
+    ],
+    "answer": 0,
+    "explanation": "The Home Office leads on immigration, policing, counter-terrorism and related domestic security matters."
+  },
+  {
+    "id": "uk-194",
+    "category": "Government",
+    "question": "What is the minimum age to stand as a candidate for the UK Parliament?",
+    "choices": [
+      "18",
+      "21",
+      "25",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "The Electoral Administration Act 2006 lowered the minimum candidacy age from 21 to 18."
+  },
+  {
+    "id": "uk-195",
+    "category": "The UK today",
+    "question": "Which of these is the UK's largest island?",
+    "choices": [
+      "Great Britain",
+      "Ireland",
+      "Isle of Wight",
+      "Anglesey"
+    ],
+    "answer": 0,
+    "explanation": "Great Britain, comprising England, Scotland and Wales, is the largest island in the British Isles."
+  },
+  {
+    "id": "uk-196",
+    "category": "The UK today",
+    "question": "What is the name of the law-making assembly for Wales?",
+    "choices": [
+      "The Senedd (Welsh Parliament)",
+      "The Scottish Parliament",
+      "The Northern Ireland Assembly",
+      "The London Assembly"
+    ],
+    "answer": 0,
+    "explanation": "The Senedd, based in Cardiff Bay, holds devolved powers over areas such as health and education in Wales."
+  },
+  {
+    "id": "uk-197",
+    "category": "The UK today",
+    "question": "Which of these is NOT one of the UK's capital cities?",
+    "choices": [
+      "Liverpool",
+      "Cardiff",
+      "Edinburgh",
+      "Belfast"
+    ],
+    "answer": 0,
+    "explanation": "London, Cardiff, Edinburgh and Belfast are the capitals of the UK and its three devolved nations; Liverpool is not a capital."
+  },
+  {
+    "id": "uk-198",
+    "category": "The UK today",
+    "question": "What is the highest mountain in Wales?",
+    "choices": [
+      "Snowdon (Yr Wyddfa)",
+      "Scafell Pike",
+      "Ben Nevis",
+      "Cadair Idris"
+    ],
+    "answer": 0,
+    "explanation": "Snowdon, also known by its Welsh name Yr Wyddfa, is the highest peak in Wales."
+  },
+  {
+    "id": "uk-199",
+    "category": "The UK today",
+    "question": "What is the highest mountain in England?",
+    "choices": [
+      "Scafell Pike",
+      "Snowdon",
+      "Ben Nevis",
+      "Helvellyn"
+    ],
+    "answer": 0,
+    "explanation": "Scafell Pike, in the Lake District, is the highest point in England."
+  },
+  {
+    "id": "uk-200",
+    "category": "The UK today",
+    "question": "Which of these is a UK Crown Dependency, alongside the Isle of Man?",
+    "choices": [
+      "The Channel Islands (e.g. Jersey and Guernsey)",
+      "Gibraltar",
+      "The Falkland Islands",
+      "Bermuda"
+    ],
+    "answer": 0,
+    "explanation": "The Channel Islands and the Isle of Man are Crown Dependencies, distinct from UK Overseas Territories like Gibraltar and Bermuda."
+  },
+  {
+    "id": "uk-201",
+    "category": "The UK today",
+    "question": "What is the time zone used in the UK during winter months?",
+    "choices": [
+      "Greenwich Mean Time (GMT)",
+      "Central European Time",
+      "Eastern Standard Time",
+      "British Summer Time"
+    ],
+    "answer": 0,
+    "explanation": "The UK uses GMT in winter and switches to British Summer Time (GMT+1) in the spring."
+  },
+  {
+    "id": "uk-202",
+    "category": "The UK today",
+    "question": "What do UK clocks do in spring, moving to British Summer Time?",
+    "choices": [
+      "They move forward by one hour",
+      "They move back by one hour",
+      "They stay the same",
+      "They move forward by two hours"
+    ],
+    "answer": 0,
+    "explanation": "Clocks go forward one hour on the last Sunday in March and back again in October."
+  },
+  {
+    "id": "uk-203",
+    "category": "The UK today",
+    "question": "Which sea lies to the east of Great Britain?",
+    "choices": [
+      "The North Sea",
+      "The Irish Sea",
+      "The English Channel",
+      "The Atlantic Ocean"
+    ],
+    "answer": 0,
+    "explanation": "The North Sea separates Great Britain from continental Europe to the east."
+  },
+  {
+    "id": "uk-204",
+    "category": "The UK today",
+    "question": "The Shetland and Orkney Islands lie off the coast of which country?",
+    "choices": [
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "England"
+    ],
+    "answer": 0,
+    "explanation": "Both island groups lie to the north of the Scottish mainland."
+  },
+  {
+    "id": "uk-205",
+    "category": "The UK today",
+    "question": "Which of these cities is located in Northern Ireland, alongside Belfast?",
+    "choices": [
+      "Derry/Londonderry",
+      "Dundee",
+      "Swansea",
+      "Inverness"
+    ],
+    "answer": 0,
+    "explanation": "Derry, also called Londonderry, is Northern Ireland's second-largest city."
+  },
+  {
+    "id": "uk-206",
+    "category": "The UK today",
+    "question": "What is another name for the Union Flag of the United Kingdom?",
+    "choices": [
+      "The Union Jack",
+      "The Cross of St George",
+      "The Royal Standard",
+      "The Saltire"
+    ],
+    "answer": 0,
+    "explanation": "'Union Jack' is a widely used alternative name for the Union Flag."
+  },
+  {
+    "id": "uk-207",
+    "category": "Early history",
+    "question": "Stonehenge, built thousands of years before the Roman invasion, dates mainly from which broad period?",
+    "choices": [
+      "The prehistoric Neolithic and Bronze Age period",
+      "The Roman period",
+      "The Anglo-Saxon period",
+      "The medieval period"
+    ],
+    "answer": 0,
+    "explanation": "Construction and modification of Stonehenge spanned roughly 3000 to 1500 BC."
+  },
+  {
+    "id": "uk-208",
+    "category": "Early history",
+    "question": "What was 'Beowulf', composed in Anglo-Saxon England?",
+    "choices": [
+      "An epic poem, one of the oldest surviving works of English literature",
+      "A legal code",
+      "A religious text banning Norse gods",
+      "A map of Britain"
+    ],
+    "answer": 0,
+    "explanation": "Beowulf is an Old English epic poem, likely composed between the 8th and 11th centuries."
+  },
+  {
+    "id": "uk-209",
+    "category": "Early history",
+    "question": "Sutton Hoo, a famous archaeological site in Suffolk, revealed treasures from which period?",
+    "choices": [
+      "Anglo-Saxon England",
+      "Roman Britain",
+      "The Viking Age in Scotland",
+      "The Norman period"
+    ],
+    "answer": 0,
+    "explanation": "The Sutton Hoo ship burial, discovered in 1939, contained lavish Anglo-Saxon grave goods, likely of a king."
+  },
+  {
+    "id": "uk-210",
+    "category": "Early history",
+    "question": "Who was Boudicca?",
+    "choices": [
+      "A British tribal queen who led a revolt against Roman rule",
+      "A Norman queen",
+      "A Viking leader",
+      "An Anglo-Saxon saint"
+    ],
+    "answer": 0,
+    "explanation": "Boudicca led the Iceni tribe in a major uprising against Roman occupation around AD 60-61."
+  },
+  {
+    "id": "uk-211",
+    "category": "Early history",
+    "question": "What was the 'Danelaw'?",
+    "choices": [
+      "An area of England under Viking/Danish control and law in the early medieval period",
+      "A Roman legal code",
+      "A type of medieval punishment",
+      "A Norman land tax"
+    ],
+    "answer": 0,
+    "explanation": "The Danelaw covered parts of northern and eastern England where Danish law and customs prevailed."
+  },
+  {
+    "id": "uk-212",
+    "category": "Early history",
+    "question": "King Canute (Cnut), an 11th-century king of England, was originally a ruler of which country?",
+    "choices": [
+      "Denmark",
+      "France",
+      "Spain",
+      "Portugal"
+    ],
+    "answer": 0,
+    "explanation": "Cnut was a Danish prince who became king of England, Denmark and Norway."
+  },
+  {
+    "id": "uk-213",
+    "category": "Early history",
+    "question": "William the Conqueror's invasion of England in 1066 came from which region?",
+    "choices": [
+      "Normandy, in northern France",
+      "Denmark",
+      "Spain",
+      "The Netherlands"
+    ],
+    "answer": 0,
+    "explanation": "William, Duke of Normandy, invaded and defeated King Harold at the Battle of Hastings."
+  },
+  {
+    "id": "uk-214",
+    "category": "Early history",
+    "question": "After the Norman Conquest, which language became dominant among the English ruling class for a time?",
+    "choices": [
+      "Norman French",
+      "Latin",
+      "Old Norse",
+      "Welsh"
+    ],
+    "answer": 0,
+    "explanation": "Norman French was used by the new ruling elite for generations, influencing modern English vocabulary."
+  },
+  {
+    "id": "uk-215",
+    "category": "Early history",
+    "question": "The Tower of London was originally built by whom?",
+    "choices": [
+      "William the Conqueror",
+      "King John",
+      "Henry VIII",
+      "Edward I"
+    ],
+    "answer": 0,
+    "explanation": "William the Conqueror began the White Tower shortly after the Norman Conquest, to secure control of London."
+  },
+  {
+    "id": "uk-216",
+    "category": "Early history",
+    "question": "St Augustine, sent by the Pope in AD 597, is credited with what?",
+    "choices": [
+      "Bringing Christianity to Anglo-Saxon England and becoming the first Archbishop of Canterbury",
+      "Building Hadrian's Wall",
+      "Founding the Church of Scotland",
+      "Leading a Viking invasion"
+    ],
+    "answer": 0,
+    "explanation": "Augustine's mission to Kent established Canterbury as a centre of English Christianity."
+  },
+  {
+    "id": "uk-217",
+    "category": "Early history",
+    "question": "What was a 'motte-and-bailey' castle, common after the Norman Conquest?",
+    "choices": [
+      "An early type of castle built on a raised mound with an enclosed courtyard",
+      "A type of Anglo-Saxon longhouse",
+      "A Roman fort",
+      "A medieval cathedral"
+    ],
+    "answer": 0,
+    "explanation": "Motte-and-bailey castles were quick to build and helped the Normans secure control of conquered territory."
+  },
+  {
+    "id": "uk-218",
+    "category": "Early history",
+    "question": "Roughly how long did Roman rule last in Britain, from the conquest under Claudius to the withdrawal of Roman forces?",
+    "choices": [
+      "About 350-400 years",
+      "About 50 years",
+      "About 1,000 years",
+      "About 100 years"
+    ],
+    "answer": 0,
+    "explanation": "Roman rule ran from AD 43 to around AD 410, close to four centuries."
+  },
+  {
+    "id": "uk-219",
+    "category": "Sport",
+    "question": "Which city hosted the Commonwealth Games in 2022?",
+    "choices": [
+      "Birmingham",
+      "Manchester",
+      "Glasgow",
+      "London"
+    ],
+    "answer": 0,
+    "explanation": "Birmingham hosted the 2022 Commonwealth Games after Durban withdrew as host."
+  },
+  {
+    "id": "uk-220",
+    "category": "Sport",
+    "question": "Test cricket matches can last up to how many days?",
+    "choices": [
+      "5 days",
+      "1 day",
+      "3 days",
+      "7 days"
+    ],
+    "answer": 0,
+    "explanation": "Test matches, the longest format of cricket, are scheduled over up to five days."
+  },
+  {
+    "id": "uk-221",
+    "category": "Sport",
+    "question": "The Six Nations Championship is an annual competition in which sport?",
+    "choices": [
+      "Rugby union",
+      "Football",
+      "Cricket",
+      "Athletics"
+    ],
+    "answer": 0,
+    "explanation": "It features England, Scotland, Wales, Ireland, France and Italy."
+  },
+  {
+    "id": "uk-222",
+    "category": "Sport",
+    "question": "Which four countries make up the 'home nations' in football, each with their own national team?",
+    "choices": [
+      "England, Scotland, Wales and Northern Ireland",
+      "England, France, Spain and Germany",
+      "England, Ireland, Australia and the USA",
+      "Scotland, Wales, Ireland and Iceland"
+    ],
+    "answer": 0,
+    "explanation": "Unusually for international sport, the UK is represented by four separate national football teams."
+  },
+  {
+    "id": "uk-223",
+    "category": "Sport",
+    "question": "The Premier League is the top division of which sport in England?",
+    "choices": [
+      "Football (association football)",
+      "Rugby",
+      "Cricket",
+      "Hockey"
+    ],
+    "answer": 0,
+    "explanation": "The Premier League is the highest tier of the English football league system."
+  },
+  {
+    "id": "uk-224",
+    "category": "Sport",
+    "question": "Which British tennis player won the Wimbledon men's singles title in 2013, the first British man to do so in 77 years?",
+    "choices": [
+      "Andy Murray",
+      "Tim Henman",
+      "Fred Perry",
+      "Roger Federer"
+    ],
+    "answer": 0,
+    "explanation": "Murray beat Novak Djokovic in the final, ending a wait dating back to Fred Perry's win in 1936."
+  },
+  {
+    "id": "uk-225",
+    "category": "Sport",
+    "question": "The sport of curling, popular in Scotland, is played on what surface?",
+    "choices": [
+      "Ice",
+      "Grass",
+      "Clay",
+      "Sand"
+    ],
+    "answer": 0,
+    "explanation": "Curling involves sliding stones across an ice sheet toward a target area."
+  },
+  {
+    "id": "uk-226",
+    "category": "Sport",
+    "question": "Which sport is associated with the term 'century', meaning a score of 100 runs by a single batter?",
+    "choices": [
+      "Cricket",
+      "Snooker",
+      "Darts",
+      "Rugby"
+    ],
+    "answer": 0,
+    "explanation": "Scoring a century is a significant individual achievement in cricket."
+  },
+  {
+    "id": "uk-227",
+    "category": "Sport",
+    "question": "Snooker, a cue sport popular in the UK, is played on what type of table?",
+    "choices": [
+      "A large table with six pockets, covered in green baize",
+      "A small round table",
+      "A table without pockets",
+      "A table divided into squares"
+    ],
+    "answer": 0,
+    "explanation": "Snooker uses a large baize-covered table with pockets at each corner and the middle of each long side."
+  },
+  {
+    "id": "uk-228",
+    "category": "Sport",
+    "question": "The London Marathon is an annual event in which sport?",
+    "choices": [
+      "Long-distance running",
+      "Cycling",
+      "Swimming",
+      "Rowing"
+    ],
+    "answer": 0,
+    "explanation": "The London Marathon, first held in 1981, is one of the world's largest annual marathons."
+  },
+  {
+    "id": "uk-229",
+    "category": "Arts and architecture",
+    "question": "Who wrote the plays Hamlet, Macbeth and Romeo and Juliet?",
+    "choices": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Milton"
+    ],
+    "answer": 0,
+    "explanation": "These are among Shakespeare's best-known tragedies."
+  },
+  {
+    "id": "uk-230",
+    "category": "Arts and architecture",
+    "question": "The Globe Theatre, associated with Shakespeare, was located in which city?",
+    "choices": [
+      "London",
+      "Stratford-upon-Avon",
+      "Oxford",
+      "York"
+    ],
+    "answer": 0,
+    "explanation": "The original Globe was built on the south bank of the Thames in London in 1599."
+  },
+  {
+    "id": "uk-231",
+    "category": "Arts and architecture",
+    "question": "Which British author wrote the Harry Potter series?",
+    "choices": [
+      "J.K. Rowling",
+      "Roald Dahl",
+      "C.S. Lewis",
+      "Enid Blyton"
+    ],
+    "answer": 0,
+    "explanation": "Rowling's seven-book series became one of the best-selling in history."
+  },
+  {
+    "id": "uk-232",
+    "category": "Arts and architecture",
+    "question": "Which British author wrote The Lord of the Rings and The Hobbit?",
+    "choices": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "George Orwell",
+      "Terry Pratchett"
+    ],
+    "answer": 0,
+    "explanation": "Tolkien, an Oxford academic, created the fictional world of Middle-earth."
+  },
+  {
+    "id": "uk-233",
+    "category": "Arts and architecture",
+    "question": "George Orwell, a British author, is known for novels including which of these?",
+    "choices": [
+      "1984 and Animal Farm",
+      "Pride and Prejudice",
+      "Oliver Twist",
+      "Wuthering Heights"
+    ],
+    "answer": 0,
+    "explanation": "Orwell's dystopian and satirical novels remain widely studied and referenced."
+  },
+  {
+    "id": "uk-234",
+    "category": "Arts and architecture",
+    "question": "The architectural style of the Palace of Westminster (Houses of Parliament) is best described as which of these?",
+    "choices": [
+      "Gothic Revival",
+      "Modernist",
+      "Baroque",
+      "Art Deco"
+    ],
+    "answer": 0,
+    "explanation": "The current building, completed in the 19th century, is a famous example of Gothic Revival architecture."
+  },
+  {
+    "id": "uk-235",
+    "category": "Arts and architecture",
+    "question": "Which British artist is known for his 'Young British Artists' movement work, including a shark preserved in formaldehyde?",
+    "choices": [
+      "Damien Hirst",
+      "David Hockney",
+      "Banksy",
+      "Lucian Freud"
+    ],
+    "answer": 0,
+    "explanation": "Hirst became one of the most prominent artists of the YBA movement in the 1990s."
+  },
+  {
+    "id": "uk-236",
+    "category": "Arts and architecture",
+    "question": "'Sgt. Pepper's Lonely Hearts Club Band' is a famous album by which British band?",
+    "choices": [
+      "The Beatles",
+      "Queen",
+      "The Rolling Stones",
+      "Pink Floyd"
+    ],
+    "answer": 0,
+    "explanation": "Released in 1967, it is often cited as a landmark album in popular music."
+  },
+  {
+    "id": "uk-237",
+    "category": "Arts and architecture",
+    "question": "The Royal Shakespeare Company is based primarily in which town?",
+    "choices": [
+      "Stratford-upon-Avon",
+      "London",
+      "Oxford",
+      "Cambridge"
+    ],
+    "answer": 0,
+    "explanation": "The company performs in Shakespeare's home town as well as in London and on tour."
+  },
+  {
+    "id": "uk-238",
+    "category": "Arts and architecture",
+    "question": "The National Gallery in London houses which kind of collection?",
+    "choices": [
+      "Western European paintings",
+      "Natural history specimens",
+      "Historical documents",
+      "Scientific instruments"
+    ],
+    "answer": 0,
+    "explanation": "It holds over 2,000 paintings spanning the mid-13th to the 20th century."
+  },
+  {
+    "id": "uk-239",
+    "category": "Religion and diversity",
+    "question": "Which of these is one of the Five Pillars of Islam, observed by many Muslims in the UK?",
+    "choices": [
+      "Fasting during Ramadan",
+      "Celebrating Christmas",
+      "Lighting a menorah",
+      "Observing Lent"
+    ],
+    "answer": 0,
+    "explanation": "The Five Pillars include fasting during Ramadan, alongside faith, prayer, charity and pilgrimage."
+  },
+  {
+    "id": "uk-240",
+    "category": "Religion and diversity",
+    "question": "Vaisakhi (Baisakhi) is an important festival for followers of which religion?",
+    "choices": [
+      "Sikhism",
+      "Buddhism",
+      "Judaism",
+      "Christianity"
+    ],
+    "answer": 0,
+    "explanation": "Vaisakhi marks the founding of the Khalsa in Sikh tradition, in April each year."
+  },
+  {
+    "id": "uk-241",
+    "category": "Religion and diversity",
+    "question": "The Sikh place of worship is known as what?",
+    "choices": [
+      "A gurdwara",
+      "A synagogue",
+      "A mosque",
+      "A temple"
+    ],
+    "answer": 0,
+    "explanation": "Gurdwaras also often host a community kitchen (langar) open to all visitors."
+  },
+  {
+    "id": "uk-242",
+    "category": "Religion and diversity",
+    "question": "The Muslim place of worship is known as what?",
+    "choices": [
+      "A mosque",
+      "A gurdwara",
+      "A synagogue",
+      "A chapel"
+    ],
+    "answer": 0,
+    "explanation": "Mosques serve as centres of prayer and community for Muslims."
+  },
+  {
+    "id": "uk-243",
+    "category": "Religion and diversity",
+    "question": "The Jewish place of worship is known as what?",
+    "choices": [
+      "A synagogue",
+      "A mosque",
+      "A gurdwara",
+      "A shrine"
+    ],
+    "answer": 0,
+    "explanation": "Synagogues are used for prayer, study and community gatherings."
+  },
+  {
+    "id": "uk-244",
+    "category": "Religion and diversity",
+    "question": "Which of these festivals is a Buddhist celebration marking the birth, enlightenment and death of the Buddha?",
+    "choices": [
+      "Vesak",
+      "Diwali",
+      "Hanukkah",
+      "Eid al-Adha"
+    ],
+    "answer": 0,
+    "explanation": "Vesak, also called Buddha Day, is one of the most significant Buddhist festivals."
+  },
+  {
+    "id": "uk-245",
+    "category": "Religion and diversity",
+    "question": "Hanukkah, the Jewish festival of lights, typically falls in which season?",
+    "choices": [
+      "Winter",
+      "Summer",
+      "Spring",
+      "Autumn"
+    ],
+    "answer": 0,
+    "explanation": "Hanukkah usually falls in late November or December, and involves lighting a menorah over eight nights."
+  },
+  {
+    "id": "uk-246",
+    "category": "Religion and diversity",
+    "question": "Ash Wednesday marks the beginning of which period in the Christian calendar?",
+    "choices": [
+      "Lent",
+      "Advent",
+      "Easter",
+      "Pentecost"
+    ],
+    "answer": 0,
+    "explanation": "Lent is a period of fasting and reflection leading up to Easter."
+  },
+  {
+    "id": "uk-247",
+    "category": "Religion and diversity",
+    "question": "What is 'Advent' in the Christian calendar?",
+    "choices": [
+      "The period of preparation before Christmas",
+      "The period after Easter",
+      "A fasting month",
+      "A harvest celebration"
+    ],
+    "answer": 0,
+    "explanation": "Advent covers the four Sundays leading up to Christmas Day."
+  },
+  {
+    "id": "uk-248",
+    "category": "Religion and diversity",
+    "question": "The UK has laws protecting people from discrimination based on religion or belief under which act?",
+    "choices": [
+      "The Equality Act 2010",
+      "The Human Rights Act 1998 only",
+      "The Magna Carta",
+      "The Bill of Rights 1689"
+    ],
+    "answer": 0,
+    "explanation": "The Equality Act 2010 consolidated and extended earlier anti-discrimination legislation, including on religion or belief."
+  },
+  {
+    "id": "uk-249",
+    "category": "Religion and diversity",
+    "question": "According to the values described in the citizenship guide, how should people of different faiths and beliefs be treated in the UK?",
+    "choices": [
+      "With tolerance and mutual respect",
+      "With suspicion",
+      "According to a state-mandated hierarchy",
+      "Only according to the established church's teaching"
+    ],
+    "answer": 0,
+    "explanation": "Tolerance of different faiths and beliefs is presented as a core British value in the citizenship guide."
+  },
+  {
+    "id": "uk-250",
+    "category": "Religion and diversity",
+    "question": "Which of these religious buildings might you find serving communities in a British town alongside churches?",
+    "choices": [
+      "Mosques, gurdwaras, synagogues and temples",
+      "Only churches are legally permitted",
+      "Only mosques are legally permitted",
+      "Religious buildings are banned"
+    ],
+    "answer": 0,
+    "explanation": "The UK is home to a wide range of faith communities and their places of worship."
+  },
+  {
+    "id": "uk-251",
+    "category": "Places of interest",
+    "question": "The Eden Project, featuring giant biome domes, is located in which English county?",
+    "choices": [
+      "Cornwall",
+      "Kent",
+      "Yorkshire",
+      "Norfolk"
+    ],
+    "answer": 0,
+    "explanation": "The Eden Project, opened in 2001, is built in a former china clay pit in Cornwall."
+  },
+  {
+    "id": "uk-252",
+    "category": "Places of interest",
+    "question": "Which historic dockyard, home to HMS Victory, is a popular visitor attraction?",
+    "choices": [
+      "Portsmouth Historic Dockyard",
+      "Plymouth Hoe",
+      "Chatham Docks",
+      "Liverpool Docks"
+    ],
+    "answer": 0,
+    "explanation": "HMS Victory, Nelson's flagship at Trafalgar, is preserved at Portsmouth."
+  },
+  {
+    "id": "uk-253",
+    "category": "Places of interest",
+    "question": "The Peak District, one of the UK's national parks, is located mainly in which part of England?",
+    "choices": [
+      "Central England (Derbyshire and surrounding counties)",
+      "The far south coast",
+      "East Anglia",
+      "The Scottish Borders"
+    ],
+    "answer": 0,
+    "explanation": "The Peak District was the UK's first designated national park, in 1951."
+  },
+  {
+    "id": "uk-254",
+    "category": "Places of interest",
+    "question": "York Minster is a famous example of what type of building?",
+    "choices": [
+      "A cathedral",
+      "A castle",
+      "A royal palace",
+      "A university"
+    ],
+    "answer": 0,
+    "explanation": "York Minster is one of the largest Gothic cathedrals in northern Europe."
+  },
+  {
+    "id": "uk-255",
+    "category": "Places of interest",
+    "question": "Which famous prehistoric stone circle, similar to Stonehenge, is also found in Wiltshire?",
+    "choices": [
+      "Avebury stone circle",
+      "Callanish Stones",
+      "Skara Brae",
+      "Newgrange"
+    ],
+    "answer": 0,
+    "explanation": "Avebury contains the largest prehistoric stone circle in the world."
+  },
+  {
+    "id": "uk-256",
+    "category": "Places of interest",
+    "question": "The Roman Baths, a well-preserved ancient bathing complex, can be visited in which English city?",
+    "choices": [
+      "Bath",
+      "York",
+      "Chester",
+      "Colchester"
+    ],
+    "answer": 0,
+    "explanation": "The city of Bath is named after these Roman baths, built around natural hot springs."
+  },
+  {
+    "id": "uk-257",
+    "category": "Places of interest",
+    "question": "Which famous white chalk cliffs overlook the English Channel near Dover?",
+    "choices": [
+      "The White Cliffs of Dover",
+      "The Seven Sisters",
+      "The Jurassic Coast",
+      "Beachy Head"
+    ],
+    "answer": 0,
+    "explanation": "The White Cliffs of Dover are among the most recognisable coastal landmarks in England."
+  },
+  {
+    "id": "uk-258",
+    "category": "Places of interest",
+    "question": "Kew Gardens, a UNESCO World Heritage Site in London, is known for what?",
+    "choices": [
+      "Its botanical gardens and plant collections",
+      "Its royal portraits",
+      "Its collection of armour",
+      "Its aquarium"
+    ],
+    "answer": 0,
+    "explanation": "Kew houses one of the world's largest and most diverse collections of living plants."
+  },
+  {
+    "id": "uk-259",
+    "category": "Places of interest",
+    "question": "The Angel of the North is a large modern sculpture located near which English city?",
+    "choices": [
+      "Gateshead, near Newcastle",
+      "Birmingham",
+      "Bristol",
+      "Liverpool"
+    ],
+    "answer": 0,
+    "explanation": "Designed by Antony Gormley, the sculpture stands over 20 metres tall."
+  },
+  {
+    "id": "uk-260",
+    "category": "Places of interest",
+    "question": "Hampton Court Palace, associated with Henry VIII, is located on the outskirts of which city?",
+    "choices": [
+      "London",
+      "York",
+      "Edinburgh",
+      "Cardiff"
+    ],
+    "answer": 0,
+    "explanation": "Hampton Court was one of Henry VIII's favourite residences."
+  },
+  {
+    "id": "uk-261",
+    "category": "Places of interest",
+    "question": "The Scottish island of Skye is part of which island group?",
+    "choices": [
+      "The Inner Hebrides",
+      "The Orkney Islands",
+      "The Shetland Islands",
+      "The Channel Islands"
+    ],
+    "answer": 0,
+    "explanation": "Skye is the largest and best-known island of the Inner Hebrides."
+  },
+  {
+    "id": "uk-262",
+    "category": "Places of interest",
+    "question": "Snowdonia, a mountainous national park, is located in which country of the UK?",
+    "choices": [
+      "Wales",
+      "Scotland",
+      "England",
+      "Northern Ireland"
+    ],
+    "answer": 0,
+    "explanation": "Snowdonia, known in Welsh as Eryri, contains Wales's highest peak."
+  },
+  {
+    "id": "uk-263",
+    "category": "Community and volunteering",
+    "question": "What is a 'Citizens Advice Bureau'?",
+    "choices": [
+      "A free service offering advice on legal, financial and other issues",
+      "A government tax office",
+      "A police station",
+      "A type of court"
+    ],
+    "answer": 0,
+    "explanation": "Citizens Advice provides free, independent guidance to the public across the UK."
+  },
+  {
+    "id": "uk-264",
+    "category": "Community and volunteering",
+    "question": "What is 'jury service'?",
+    "choices": [
+      "A civic duty where a member of the public is called to help decide a court case",
+      "A paid government job",
+      "A form of military service",
+      "A type of apprenticeship"
+    ],
+    "answer": 0,
+    "explanation": "Jury service is a legal duty for eligible citizens, though it is not a permanent job."
+  },
+  {
+    "id": "uk-265",
+    "category": "Community and volunteering",
+    "question": "Which of these is an example of an unpaid, elected community role in the UK?",
+    "choices": [
+      "A local councillor",
+      "A Member of Parliament",
+      "A judge",
+      "A police officer"
+    ],
+    "answer": 0,
+    "explanation": "Many local councillors receive only a small allowance rather than a full salary."
+  },
+  {
+    "id": "uk-266",
+    "category": "Community and volunteering",
+    "question": "What is the purpose of a food bank, commonly run by volunteers and charities in the UK?",
+    "choices": [
+      "To provide emergency food to people in need",
+      "To sell discounted groceries",
+      "To store government food reserves",
+      "To train chefs"
+    ],
+    "answer": 0,
+    "explanation": "Food banks rely heavily on public donations and volunteer staff."
+  },
+  {
+    "id": "uk-267",
+    "category": "Community and volunteering",
+    "question": "What is a 'charity' in the UK, in the legal sense?",
+    "choices": [
+      "An organisation set up for a charitable purpose, registered with the Charity Commission",
+      "Any non-profit business",
+      "A government department",
+      "A type of trade union"
+    ],
+    "answer": 0,
+    "explanation": "Registered charities must meet legal criteria and report to the Charity Commission."
+  },
+  {
+    "id": "uk-268",
+    "category": "Community and volunteering",
+    "question": "Who regulates registered charities in England and Wales?",
+    "choices": [
+      "The Charity Commission",
+      "The Home Office",
+      "The Bank of England",
+      "The local council"
+    ],
+    "answer": 0,
+    "explanation": "The Charity Commission oversees charity registration, governance and compliance."
+  },
+  {
+    "id": "uk-269",
+    "category": "Community and volunteering",
+    "question": "What is a 'residents' association'?",
+    "choices": [
+      "A voluntary group representing the interests of people living in a particular area",
+      "A government tax body",
+      "A political party",
+      "A trade union"
+    ],
+    "answer": 0,
+    "explanation": "Residents' associations often raise local concerns with councils and organise community activities."
+  },
+  {
+    "id": "uk-270",
+    "category": "Community and volunteering",
+    "question": "Which of these is an example of active citizenship encouraged in the UK?",
+    "choices": [
+      "Voting in elections and volunteering locally",
+      "Avoiding all contact with neighbours",
+      "Refusing to follow local laws",
+      "Ignoring public consultations"
+    ],
+    "answer": 0,
+    "explanation": "Active citizenship includes voting, volunteering and engaging with local decision-making."
+  },
+  {
+    "id": "uk-271",
+    "category": "Community and volunteering",
+    "question": "What might a Parish Council be responsible for, in parts of rural England?",
+    "choices": [
+      "Small-scale local matters like footpaths, allotments and local halls",
+      "National defence",
+      "Foreign policy",
+      "Setting income tax rates"
+    ],
+    "answer": 0,
+    "explanation": "Parish councils are the most local tier of government, dealing with hyper-local issues."
+  },
+  {
+    "id": "uk-272",
+    "category": "Community and volunteering",
+    "question": "What is the purpose of a 'consultation' held by a local council?",
+    "choices": [
+      "To gather residents' views before making a decision",
+      "To collect council tax",
+      "To hold a criminal trial",
+      "To elect a new MP"
+    ],
+    "answer": 0,
+    "explanation": "Consultations allow the public to comment on proposed local policies or developments."
+  },
+  {
+    "id": "uk-273",
+    "category": "Community and volunteering",
+    "question": "Which of these is a well-known UK charity?",
+    "choices": [
+      "The British Red Cross",
+      "The Bank of England",
+      "The Home Office",
+      "The Church Commissioners"
+    ],
+    "answer": 0,
+    "explanation": "The British Red Cross is a major UK charity providing emergency and humanitarian support."
+  },
+  {
+    "id": "uk-274",
+    "category": "Community and volunteering",
+    "question": "What does 'Gift Aid' allow UK charities to do?",
+    "choices": [
+      "Reclaim tax on donations made by UK taxpayers",
+      "Avoid paying any tax at all",
+      "Receive government grants automatically",
+      "Sell goods without VAT"
+    ],
+    "answer": 0,
+    "explanation": "Gift Aid lets charities claim back the basic rate of tax already paid on a donation, boosting its value."
+  },
+  {
+    "id": "uk-275",
+    "category": "A global power",
+    "question": "The British Empire, at its height, was often described using which phrase about the sun?",
+    "choices": [
+      "The empire on which the sun never sets",
+      "The empire of the midnight sun",
+      "The empire beyond the sun",
+      "The sunless empire"
+    ],
+    "answer": 0,
+    "explanation": "The phrase reflected the empire's vast global reach, spanning territories in every time zone."
+  },
+  {
+    "id": "uk-276",
+    "category": "A global power",
+    "question": "Captain James Cook, an 18th-century British explorer, is known for voyages to which region?",
+    "choices": [
+      "The Pacific, including Australia and New Zealand",
+      "South America",
+      "The Arctic",
+      "Africa"
+    ],
+    "answer": 0,
+    "explanation": "Cook's voyages mapped large areas of the Pacific previously unknown to Europeans."
+  },
+  {
+    "id": "uk-277",
+    "category": "A global power",
+    "question": "The East India Company was originally established for what purpose?",
+    "choices": [
+      "Trade with Asia, particularly India",
+      "Mining in Africa",
+      "Fishing in the North Sea",
+      "Farming in the Americas"
+    ],
+    "answer": 0,
+    "explanation": "Founded in 1600, the company later took on significant political and territorial control in India."
+  },
+  {
+    "id": "uk-278",
+    "category": "A global power",
+    "question": "Which act, effective from 1801, formally united the Kingdom of Great Britain and the Kingdom of Ireland?",
+    "choices": [
+      "The Act of Union 1800",
+      "The Treaty of Versailles",
+      "The Bill of Rights",
+      "The Magna Carta"
+    ],
+    "answer": 0,
+    "explanation": "The Act of Union 1800 created the United Kingdom of Great Britain and Ireland, taking effect on 1 January 1801."
+  },
+  {
+    "id": "uk-279",
+    "category": "A global power",
+    "question": "William Wilberforce is best known for his role in campaigning against what?",
+    "choices": [
+      "The slave trade",
+      "Child labour",
+      "The Corn Laws",
+      "Income tax"
+    ],
+    "answer": 0,
+    "explanation": "Wilberforce led the parliamentary campaign that resulted in the Slave Trade Act 1807."
+  },
+  {
+    "id": "uk-280",
+    "category": "A global power",
+    "question": "In which year did the UK abolish the slave trade within the British Empire?",
+    "choices": [
+      "1807",
+      "1833",
+      "1900",
+      "1750"
+    ],
+    "answer": 0,
+    "explanation": "The Slave Trade Act 1807 banned the trade in enslaved people, though slavery itself continued for years after."
+  },
+  {
+    "id": "uk-281",
+    "category": "A global power",
+    "question": "In which year was slavery itself abolished across most of the British Empire?",
+    "choices": [
+      "1833",
+      "1807",
+      "1900",
+      "1950"
+    ],
+    "answer": 0,
+    "explanation": "The Slavery Abolition Act 1833 ended slavery in most of the empire, with emancipation phased in by 1838."
+  },
+  {
+    "id": "uk-282",
+    "category": "A global power",
+    "question": "James Watt's improvements to which technology helped power the Industrial Revolution?",
+    "choices": [
+      "The steam engine",
+      "The telephone",
+      "The printing press",
+      "The internal combustion engine"
+    ],
+    "answer": 0,
+    "explanation": "Watt's more efficient steam engine design was crucial to industrial machinery and transport."
+  },
+  {
+    "id": "uk-283",
+    "category": "A global power",
+    "question": "Isambard Kingdom Brunel, a famous Victorian engineer, is known for work on which of these?",
+    "choices": [
+      "Railways, bridges and ships",
+      "Medicine",
+      "Literature",
+      "Painting"
+    ],
+    "answer": 0,
+    "explanation": "Brunel's projects included the Great Western Railway and several pioneering ships."
+  },
+  {
+    "id": "uk-284",
+    "category": "A global power",
+    "question": "The Great Exhibition of 1851, held in London's Crystal Palace, celebrated what?",
+    "choices": [
+      "Industry, technology and design from around the world",
+      "Military victories",
+      "Religious unity",
+      "Sporting achievements"
+    ],
+    "answer": 0,
+    "explanation": "The exhibition showcased Britain's industrial power and attracted millions of visitors."
+  },
+  {
+    "id": "uk-285",
+    "category": "A global power",
+    "question": "Queen Victoria's reign, from 1837 to 1901, is known as which era?",
+    "choices": [
+      "The Victorian era",
+      "The Edwardian era",
+      "The Georgian era",
+      "The Elizabethan era"
+    ],
+    "answer": 0,
+    "explanation": "The Victorian era saw major industrial, social and imperial expansion."
+  },
+  {
+    "id": "uk-286",
+    "category": "A global power",
+    "question": "Which of these best describes the British Empire at its peak in the early 20th century?",
+    "choices": [
+      "The largest empire in history by land area",
+      "A small trading network limited to Europe",
+      "A purely military alliance",
+      "A federation of equal independent states"
+    ],
+    "answer": 0,
+    "explanation": "At its height, the empire covered around a quarter of the world's land area."
+  },
+  {
+    "id": "uk-287",
+    "category": "A global power",
+    "question": "The Commonwealth of Nations today is best described as what?",
+    "choices": [
+      "A voluntary association of independent countries, mostly former British territories",
+      "A military alliance",
+      "A single federal state",
+      "The remaining British Empire"
+    ],
+    "answer": 0,
+    "explanation": "Member states cooperate on shared goals but are independent, sovereign countries."
+  },
+  {
+    "id": "uk-288",
+    "category": "The Tudors and Stuarts",
+    "question": "Who was the first Tudor monarch, becoming king after the Battle of Bosworth Field in 1485?",
+    "choices": [
+      "Henry VII",
+      "Henry VIII",
+      "Edward VI",
+      "Richard III"
+    ],
+    "answer": 0,
+    "explanation": "Henry VII founded the Tudor dynasty after defeating Richard III."
+  },
+  {
+    "id": "uk-289",
+    "category": "The Tudors and Stuarts",
+    "question": "Elizabeth I, one of England's most famous monarchs, was the daughter of which king?",
+    "choices": [
+      "Henry VIII",
+      "Henry VII",
+      "Edward VI",
+      "James I"
+    ],
+    "answer": 0,
+    "explanation": "Elizabeth I was the daughter of Henry VIII and Anne Boleyn."
+  },
+  {
+    "id": "uk-290",
+    "category": "The Tudors and Stuarts",
+    "question": "What was significant about Elizabeth I's reign in terms of succession?",
+    "choices": [
+      "She never married and had no children, ending the Tudor dynasty",
+      "She had many children who succeeded her",
+      "She abdicated the throne",
+      "She was overthrown in a rebellion"
+    ],
+    "answer": 0,
+    "explanation": "Elizabeth's death in 1603 without an heir ended the Tudor line, and the throne passed to James VI of Scotland."
+  },
+  {
+    "id": "uk-291",
+    "category": "The Tudors and Stuarts",
+    "question": "Mary I, Elizabeth I's half-sister, earned which nickname due to her persecution of Protestants?",
+    "choices": [
+      "Bloody Mary",
+      "Mary the Great",
+      "Mary the Wise",
+      "Mary the Pious"
+    ],
+    "answer": 0,
+    "explanation": "Mary I's reign saw the execution of numerous Protestants for heresy."
+  },
+  {
+    "id": "uk-292",
+    "category": "The Tudors and Stuarts",
+    "question": "Who succeeded Elizabeth I as monarch in 1603, uniting the crowns of England and Scotland?",
+    "choices": [
+      "James I (James VI of Scotland)",
+      "Charles I",
+      "Henry VIII",
+      "William of Orange"
+    ],
+    "answer": 0,
+    "explanation": "James was already King of Scotland and became King of England too, though the two kingdoms remained separately governed."
+  },
+  {
+    "id": "uk-293",
+    "category": "The Tudors and Stuarts",
+    "question": "The King James Bible, an influential English translation, was commissioned under which king?",
+    "choices": [
+      "James I",
+      "Henry VIII",
+      "Charles I",
+      "Edward VI"
+    ],
+    "answer": 0,
+    "explanation": "Published in 1611, it became one of the most widely used English Bible translations."
+  },
+  {
+    "id": "uk-294",
+    "category": "The Tudors and Stuarts",
+    "question": "Charles I's conflict with Parliament, partly over taxation and religion, led to which event?",
+    "choices": [
+      "The English Civil War",
+      "The Spanish Armada",
+      "The Gunpowder Plot",
+      "The Glorious Revolution"
+    ],
+    "answer": 0,
+    "explanation": "Tensions between Charles I and Parliament escalated into armed conflict from 1642."
+  },
+  {
+    "id": "uk-295",
+    "category": "The Tudors and Stuarts",
+    "question": "What ultimately happened to King Charles I in 1649?",
+    "choices": [
+      "He was tried and executed",
+      "He was exiled",
+      "He abdicated peacefully",
+      "He won the civil war"
+    ],
+    "answer": 0,
+    "explanation": "Charles I was tried for treason and executed, a highly unusual event for a reigning monarch."
+  },
+  {
+    "id": "uk-296",
+    "category": "The Tudors and Stuarts",
+    "question": "The period after Charles I's execution, when England had no monarch, is known as what?",
+    "choices": [
+      "The Interregnum (or Commonwealth)",
+      "The Restoration",
+      "The Regency",
+      "The Protectorate era only"
+    ],
+    "answer": 0,
+    "explanation": "England was governed as a republic, with Oliver Cromwell later ruling as Lord Protector."
+  },
+  {
+    "id": "uk-297",
+    "category": "The Tudors and Stuarts",
+    "question": "The 'Restoration' of 1660 refers to what event?",
+    "choices": [
+      "The return of the monarchy under Charles II",
+      "The rebuilding of London after the fire",
+      "The return of Catholicism as the state religion",
+      "The founding of the Royal Society"
+    ],
+    "answer": 0,
+    "explanation": "The monarchy was restored in 1660 when Charles II returned from exile."
+  },
+  {
+    "id": "uk-298",
+    "category": "The Tudors and Stuarts",
+    "question": "The 'Glorious Revolution' of 1688 resulted in which of these?",
+    "choices": [
+      "William of Orange and Mary becoming joint monarchs, replacing James II",
+      "The execution of Charles I",
+      "The English Civil War beginning",
+      "The Union of England and Scotland"
+    ],
+    "answer": 0,
+    "explanation": "James II fled and was replaced by William III and Mary II with Parliament's backing."
+  },
+  {
+    "id": "uk-299",
+    "category": "The Tudors and Stuarts",
+    "question": "What was the main reason James II was replaced in the Glorious Revolution?",
+    "choices": [
+      "Concerns over his Catholicism and his relationship with Parliament",
+      "He lost a war with France",
+      "He raised taxes too high",
+      "He abolished the monarchy"
+    ],
+    "answer": 0,
+    "explanation": "Fears of a Catholic, absolutist monarchy led leading figures to invite William of Orange to intervene."
+  },
+  {
+    "id": "uk-300",
+    "category": "The Tudors and Stuarts",
+    "question": "The Act of Settlement 1701 established which rule about the British monarchy?",
+    "choices": [
+      "That the monarch must be a Protestant",
+      "That the monarch must be elected",
+      "That the monarchy would end after Anne",
+      "That Scotland would have its own monarch"
+    ],
+    "answer": 0,
+    "explanation": "The Act secured the Protestant succession and remains part of the rules governing succession today."
+  },
+  {
+    "id": "uk-301",
+    "category": "The Tudors and Stuarts",
+    "question": "Sir Isaac Newton, who made major contributions to science, lived primarily during which era?",
+    "choices": [
+      "The Stuart era (17th century)",
+      "The Tudor era",
+      "The Victorian era",
+      "The Anglo-Saxon era"
+    ],
+    "answer": 0,
+    "explanation": "Newton's major works, including the Principia, were published in the late 17th century under Stuart rule."
+  },
+  {
+    "id": "uk-302",
+    "category": "Values and principles",
+    "question": "The UK is generally described as what type of democracy?",
+    "choices": [
+      "A parliamentary democracy",
+      "A direct democracy",
+      "A one-party state",
+      "An absolute monarchy"
+    ],
+    "answer": 0,
+    "explanation": "Citizens elect representatives to Parliament, who in turn form and hold the government to account."
+  },
+  {
+    "id": "uk-303",
+    "category": "Values and principles",
+    "question": "What does 'individual liberty' mean, as a value described in the citizenship guide?",
+    "choices": [
+      "The freedom to live your life as you choose, within the law",
+      "Freedom from all laws",
+      "The right to ignore court decisions",
+      "The right to a private army"
+    ],
+    "answer": 0,
+    "explanation": "Individual liberty is balanced against the rule of law and the rights of others."
+  },
+  {
+    "id": "uk-304",
+    "category": "Values and principles",
+    "question": "Under UK equality law, which of these characteristics is protected from discrimination?",
+    "choices": [
+      "Disability",
+      "Height",
+      "Handwriting style",
+      "Favourite football team"
+    ],
+    "answer": 0,
+    "explanation": "The Equality Act 2010 lists specific 'protected characteristics', including disability."
+  },
+  {
+    "id": "uk-305",
+    "category": "Values and principles",
+    "question": "What is the significance of an independent judiciary in the UK?",
+    "choices": [
+      "Judges can make rulings free from political interference",
+      "Judges are elected by Parliament each year",
+      "Judges must belong to the governing party",
+      "There are no judges, only juries"
+    ],
+    "answer": 0,
+    "explanation": "Judicial independence is considered essential to the rule of law and a fair legal system."
+  },
+  {
+    "id": "uk-306",
+    "category": "Values and principles",
+    "question": "Freedom of the press in the UK means what, broadly?",
+    "choices": [
+      "Journalists can report and criticise the government without censorship, subject to laws like defamation",
+      "Newspapers must be approved by the government before publishing",
+      "Only the BBC may report the news",
+      "All journalists work for the state"
+    ],
+    "answer": 0,
+    "explanation": "A free press is seen as an important check on those in power, though it is not an unlimited right."
+  },
+  {
+    "id": "uk-307",
+    "category": "Values and principles",
+    "question": "Why is voting in elections considered important in UK civic life?",
+    "choices": [
+      "It allows citizens to choose their representatives and hold government accountable",
+      "It is legally compulsory for everyone",
+      "It replaces the need for any other political participation",
+      "Only certain classes are permitted to vote"
+    ],
+    "answer": 0,
+    "explanation": "Voting is voluntary in the UK but is encouraged as a key form of democratic participation."
+  },
+  {
+    "id": "uk-308",
+    "category": "Values and principles",
+    "question": "What is meant by 'equality before the law' in the UK?",
+    "choices": [
+      "Everyone is subject to the same laws and has equal access to justice",
+      "Wealthy people receive lighter sentences by right",
+      "Only citizens, not residents, are protected by the law",
+      "Politicians are exempt from prosecution"
+    ],
+    "answer": 0,
+    "explanation": "This principle means no one, regardless of status, is above the law."
+  },
+  {
+    "id": "uk-309",
+    "category": "Values and principles",
+    "question": "Which of these best reflects the UK's approach to political parties?",
+    "choices": [
+      "Multiple parties can freely compete for votes",
+      "Only one party is permitted by law",
+      "Political parties are banned",
+      "Only the governing party may contest elections"
+    ],
+    "answer": 0,
+    "explanation": "The UK has a multi-party system, with several parties regularly represented in Parliament."
+  },
+  {
+    "id": "uk-310",
+    "category": "Values and principles",
+    "question": "What does the citizenship guide mean by describing British society as 'tolerant'?",
+    "choices": [
+      "Accepting of different lifestyles, faiths and backgrounds within the law",
+      "Indifferent to all rules and laws",
+      "Uniform in belief and culture",
+      "Opposed to any form of criticism"
+    ],
+    "answer": 0,
+    "explanation": "Tolerance is presented as accepting diversity while still operating within a shared legal framework."
+  },
+  {
+    "id": "uk-311",
+    "category": "Values and principles",
+    "question": "Why might jury service be considered an important civic responsibility?",
+    "choices": [
+      "It involves ordinary citizens directly in the justice system",
+      "It is a paid, permanent job",
+      "It replaces the need for judges entirely",
+      "It is optional and rarely required"
+    ],
+    "answer": 0,
+    "explanation": "Trial by jury is seen as a safeguard, bringing public participation into serious criminal cases."
+  },
+  {
+    "id": "uk-312",
+    "category": "Values and principles",
+    "question": "What is the significance of the right to a fair trial in the UK legal system?",
+    "choices": [
+      "Everyone accused of a crime is entitled to a fair and public hearing",
+      "Only wealthy defendants receive a trial",
+      "Trials can be held in secret without reason",
+      "Guilt is assumed until disproven"
+    ],
+    "answer": 0,
+    "explanation": "The right to a fair trial is a fundamental legal protection, including the presumption of innocence."
+  },
+  {
+    "id": "uk-313",
+    "category": "Values and principles",
+    "question": "Which of these describes a key feature of British democracy?",
+    "choices": [
+      "Peaceful transfer of power between governments after elections",
+      "Power is only ever transferred through revolution",
+      "The same party has always governed since 1900",
+      "The monarch chooses the government's policies directly"
+    ],
+    "answer": 0,
+    "explanation": "Governments change through elections rather than force, a hallmark of stable democracies."
+  },
+  {
+    "id": "uk-314",
+    "category": "Values and principles",
+    "question": "What is the purpose of having a free and independent media in a democracy like the UK?",
+    "choices": [
+      "To inform the public and hold power to account",
+      "To only publish government-approved statements",
+      "To replace elections",
+      "To act as an arm of the police"
+    ],
+    "answer": 0,
+    "explanation": "A free media is considered important for transparency and public debate."
+  },
+  {
+    "id": "uk-315",
+    "category": "Values and principles",
+    "question": "Why does the citizenship guide emphasise participation in community life, such as volunteering?",
+    "choices": [
+      "It is seen as part of being a responsible and active citizen",
+      "It is a legal requirement for all residents",
+      "It replaces the need to pay taxes",
+      "It is only expected of elected officials"
+    ],
+    "answer": 0,
+    "explanation": "Active participation in community and civic life is presented as a valued part of British society."
+  },
+  {
+    "id": "uk-316",
+    "category": "The Middle Ages",
+    "question": "The Hundred Years' War was fought primarily between which two countries?",
+    "choices": [
+      "England and France",
+      "England and Scotland",
+      "England and Spain",
+      "France and Spain"
+    ],
+    "answer": 0,
+    "explanation": "The conflict, from 1337 to 1453, was fought over claims to the French throne."
+  },
+  {
+    "id": "uk-317",
+    "category": "The Middle Ages",
+    "question": "The Battle of Agincourt in 1415, a famous English victory, was part of which conflict?",
+    "choices": [
+      "The Hundred Years' War",
+      "The Wars of the Roses",
+      "The Norman Conquest",
+      "The Crusades"
+    ],
+    "answer": 0,
+    "explanation": "Henry V's outnumbered army defeated the French at Agincourt."
+  },
+  {
+    "id": "uk-318",
+    "category": "The Middle Ages",
+    "question": "Which English king led the army to victory at the Battle of Agincourt?",
+    "choices": [
+      "Henry V",
+      "Henry VIII",
+      "Edward III",
+      "Richard III"
+    ],
+    "answer": 0,
+    "explanation": "Henry V's victory is one of the most celebrated in English military history."
+  },
+  {
+    "id": "uk-319",
+    "category": "The Middle Ages",
+    "question": "The Black Death, a devastating plague, reached England in which century?",
+    "choices": [
+      "The 14th century",
+      "The 11th century",
+      "The 16th century",
+      "The 19th century"
+    ],
+    "answer": 0,
+    "explanation": "The plague arrived in England around 1348 and killed a huge proportion of the population."
+  },
+  {
+    "id": "uk-320",
+    "category": "The Middle Ages",
+    "question": "Roughly what proportion of England's population is estimated to have died in the Black Death of the 14th century?",
+    "choices": [
+      "Around a third",
+      "Around a tenth",
+      "Nearly all",
+      "Almost none"
+    ],
+    "answer": 0,
+    "explanation": "Historians commonly estimate that the plague killed around a third of England's population."
+  },
+  {
+    "id": "uk-321",
+    "category": "The Middle Ages",
+    "question": "The Peasants' Revolt of 1381 was largely a reaction to what?",
+    "choices": [
+      "A poll tax and poor conditions for labourers",
+      "A foreign invasion",
+      "A religious schism",
+      "The introduction of a new currency"
+    ],
+    "answer": 0,
+    "explanation": "Widespread anger at taxation and social conditions led to a major uprising in 1381."
+  },
+  {
+    "id": "uk-322",
+    "category": "The Middle Ages",
+    "question": "Who was the leader most associated with the Peasants' Revolt of 1381?",
+    "choices": [
+      "Wat Tyler",
+      "Robin Hood",
+      "Simon de Montfort",
+      "Owain Glyndwr"
+    ],
+    "answer": 0,
+    "explanation": "Wat Tyler led the rebels before being killed during negotiations with the young king."
+  },
+  {
+    "id": "uk-323",
+    "category": "The Middle Ages",
+    "question": "Simon de Montfort is significant for his role in the development of what, in the 13th century?",
+    "choices": [
+      "An early form of Parliament",
+      "The Church of England",
+      "The Royal Navy",
+      "The English legal jury system"
+    ],
+    "answer": 0,
+    "explanation": "De Montfort called an assembly in 1265 that included elected representatives, seen as an early step toward Parliament."
+  },
+  {
+    "id": "uk-324",
+    "category": "The Middle Ages",
+    "question": "Feudalism, the dominant social system of medieval England, was based on what?",
+    "choices": [
+      "Land granted in exchange for service and loyalty",
+      "Elected local government",
+      "A free market economy",
+      "Universal suffrage"
+    ],
+    "answer": 0,
+    "explanation": "Under feudalism, land was held in return for military or other service to a lord or the king."
+  },
+  {
+    "id": "uk-325",
+    "category": "The Middle Ages",
+    "question": "Medieval guilds were associations of what?",
+    "choices": [
+      "Skilled craftsmen and merchants in a particular trade",
+      "Landowning nobles only",
+      "Religious pilgrims",
+      "Royal bodyguards"
+    ],
+    "answer": 0,
+    "explanation": "Guilds regulated standards, training and trade within towns."
+  },
+  {
+    "id": "uk-326",
+    "category": "The Middle Ages",
+    "question": "Which of these was a common form of contest among medieval knights?",
+    "choices": [
+      "Jousting tournaments",
+      "Cricket matches",
+      "Football leagues",
+      "Chess championships"
+    ],
+    "answer": 0,
+    "explanation": "Jousting tournaments were popular displays of martial skill among the medieval nobility."
+  },
+  {
+    "id": "uk-327",
+    "category": "The Middle Ages",
+    "question": "The Plantagenet dynasty ruled England for roughly how long?",
+    "choices": [
+      "Over 300 years",
+      "About 50 years",
+      "About 10 years",
+      "Over 1,000 years"
+    ],
+    "answer": 0,
+    "explanation": "The Plantagenets ruled from 1154 to 1485, a span of over three centuries."
+  },
+  {
+    "id": "uk-328",
+    "category": "The Middle Ages",
+    "question": "Richard III, the last Plantagenet king, died at which battle in 1485?",
+    "choices": [
+      "The Battle of Bosworth Field",
+      "The Battle of Agincourt",
+      "The Battle of Hastings",
+      "The Battle of Towton"
+    ],
+    "answer": 0,
+    "explanation": "Richard III's death at Bosworth ended the Plantagenet dynasty and began Tudor rule."
+  },
+  {
+    "id": "uk-329",
+    "category": "Law and everyday life",
+    "question": "What is the minimum age at which someone can be held criminally responsible in England and Wales?",
+    "choices": [
+      "10",
+      "8",
+      "14",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "Children under 10 cannot be arrested or charged with a criminal offence in England and Wales."
+  },
+  {
+    "id": "uk-330",
+    "category": "Law and everyday life",
+    "question": "In Scotland, what is the age of criminal responsibility?",
+    "choices": [
+      "12",
+      "10",
+      "8",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "Scotland raised its age of criminal responsibility from 8 to 12 under a 2019 Act, fully in force by 2021."
+  },
+  {
+    "id": "uk-331",
+    "category": "Law and everyday life",
+    "question": "What is a 'solicitor', in the UK legal system?",
+    "choices": [
+      "A lawyer who gives legal advice and can represent clients in lower courts",
+      "A judge in the Supreme Court",
+      "A police officer",
+      "A Member of Parliament"
+    ],
+    "answer": 0,
+    "explanation": "Solicitors typically handle legal matters directly with clients, while barristers often specialise in advocacy in court."
+  },
+  {
+    "id": "uk-332",
+    "category": "Law and everyday life",
+    "question": "What is a 'barrister', in the UK legal system?",
+    "choices": [
+      "A lawyer who specialises in representing clients in higher courts",
+      "A type of judge only found in Scotland",
+      "A police rank",
+      "A local council officer"
+    ],
+    "answer": 0,
+    "explanation": "Barristers are typically instructed by solicitors to represent clients in court, especially in more serious cases."
+  },
+  {
+    "id": "uk-333",
+    "category": "Law and everyday life",
+    "question": "What is the legal minimum age for buying alcohol in the UK?",
+    "choices": [
+      "18",
+      "16",
+      "21",
+      "17"
+    ],
+    "answer": 0,
+    "explanation": "It is illegal to sell alcohol to anyone under 18 in the UK."
+  },
+  {
+    "id": "uk-334",
+    "category": "Law and everyday life",
+    "question": "At what age can someone legally drive a car in most of the UK?",
+    "choices": [
+      "17",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "The minimum driving age for a car is 17 in Great Britain and Northern Ireland."
+  },
+  {
+    "id": "uk-335",
+    "category": "Law and everyday life",
+    "question": "What is 'council tax' used to fund?",
+    "choices": [
+      "Local services such as rubbish collection, schools and police",
+      "National defence",
+      "The monarchy",
+      "Foreign aid"
+    ],
+    "answer": 0,
+    "explanation": "Council tax is a local property-based tax that funds services provided by local authorities."
+  },
+  {
+    "id": "uk-336",
+    "category": "Law and everyday life",
+    "question": "Which document must most UK employers provide to employees, setting out pay, hours and other terms?",
+    "choices": [
+      "A written contract or statement of employment particulars",
+      "A passport",
+      "A tenancy agreement",
+      "A driving licence"
+    ],
+    "answer": 0,
+    "explanation": "Employers are legally required to provide key employment terms in writing."
+  },
+  {
+    "id": "uk-337",
+    "category": "Law and everyday life",
+    "question": "What is the National Minimum Wage?",
+    "choices": [
+      "The legal minimum hourly pay rate that must be paid to most workers",
+      "A one-off welfare payment",
+      "A tax rebate",
+      "A pension scheme"
+    ],
+    "answer": 0,
+    "explanation": "Employers must pay at least the National Minimum (or National Living) Wage rate depending on a worker's age."
+  },
+  {
+    "id": "uk-338",
+    "category": "Law and everyday life",
+    "question": "If someone wants to rent a property in the UK, what is a 'tenancy agreement'?",
+    "choices": [
+      "A legal contract between landlord and tenant setting out the terms of the rental",
+      "A type of insurance",
+      "A council tax bill",
+      "A mortgage document"
+    ],
+    "answer": 0,
+    "explanation": "Tenancy agreements set out rights and responsibilities, including rent and notice periods."
+  },
+  {
+    "id": "uk-339",
+    "category": "Law and everyday life",
+    "question": "What is the purpose of the Trading Standards service in the UK?",
+    "choices": [
+      "To protect consumers from unfair trading practices",
+      "To collect income tax",
+      "To issue passports",
+      "To register new businesses"
+    ],
+    "answer": 0,
+    "explanation": "Trading Standards enforces consumer protection law at a local level."
+  },
+  {
+    "id": "uk-340",
+    "category": "Law and everyday life",
+    "question": "Which of these is a legal requirement for driving a car on UK roads?",
+    "choices": [
+      "Having valid insurance",
+      "Being over the age of 21",
+      "Owning the vehicle outright",
+      "Passing an annual medical exam"
+    ],
+    "answer": 0,
+    "explanation": "Driving without insurance is a criminal offence in the UK."
+  },
+  {
+    "id": "uk-341",
+    "category": "Law and everyday life",
+    "question": "What is the purpose of a will, in UK law?",
+    "choices": [
+      "To set out how a person's property and money should be distributed after their death",
+      "To register a marriage",
+      "To apply for citizenship",
+      "To open a bank account"
+    ],
+    "answer": 0,
+    "explanation": "A will lets a person specify how their estate should be handled after they die."
   }
 ]

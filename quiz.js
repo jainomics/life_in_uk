@@ -3,13 +3,15 @@
 const CONFIG = {
   mockLength: 24,      // questions in a mock test
   mockMinutes: 45,     // time limit
-  passRatio: 0.75      // 18 out of 24
+  passRatio: 0.75,     // 18 out of 24
+  practiceLength: 10   // questions in a by-topic practice round
 };
 
 const el = (id) => document.getElementById(id);
 
 const screens = {
   start:   el('screen-start'),
+  topics:  el('screen-topics'),
   quiz:    el('screen-quiz'),
   results: el('screen-results')
 };
@@ -19,6 +21,7 @@ let paper = [];       // the questions in the current test
 let index = 0;
 let answers = [];     // one entry per question: { chosen, correct }
 let mode = 'practice';
+let lastCategory = null; // null = "All topics"; otherwise a category name
 let deadline = null;
 let tick = null;
 
@@ -103,9 +106,12 @@ async function loadQuestions() {
     const n = Math.min(CONFIG.mockLength, pool.length);
     el('mock-note').textContent =
       `${n} questions, ${CONFIG.mockMinutes} minutes, answers at the end`;
-    el('practice-note').textContent =
-      `${pool.length} questions, no timer, explanation after each one`;
 
+    const topicCount = new Set(pool.map((q) => q.category)).size;
+    el('practice-note').textContent =
+      `${CONFIG.practiceLength} questions at a time, from ${topicCount} topics — your choice`;
+
+    renderTopicPicker();
     renderHistory();
   } catch (err) {
     status.className = 'status status--error';
@@ -159,7 +165,7 @@ function renderHistory() {
 
     const kind = document.createElement('span');
     kind.className = 'history__mode';
-    kind.textContent = e.mode === 'mock' ? 'Mock test' : 'Practice';
+    kind.textContent = e.mode === 'mock' ? 'Mock test' : (e.category || 'All topics');
 
     const score = document.createElement('span');
     score.className = 'history__score ' + (e.mode === 'mock'
@@ -172,17 +178,82 @@ function renderHistory() {
   });
 }
 
+function renderTopicPicker() {
+  const mixedBox = el('topic-mixed');
+  const listBox = el('topic-list');
+  mixedBox.textContent = '';
+  listBox.textContent = '';
+
+  // Categories in first-seen order, so related topics stay grouped roughly
+  // the way they appear in the bank, rather than jumping around alphabetically.
+  const categories = [];
+  pool.forEach((q) => {
+    if (!categories.includes(q.category)) categories.push(q.category);
+  });
+
+  const makeButton = (label, note, primary, onClick, badge) => {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.className = primary ? 'btn btn--primary' : 'btn';
+
+    const row = document.createElement('span');
+    row.className = 'btn__title-row';
+    const title = document.createElement('span');
+    title.textContent = label;
+    row.appendChild(title);
+    if (badge) {
+      const tag = document.createElement('span');
+      tag.className = 'badge';
+      tag.textContent = badge;
+      row.appendChild(tag);
+    }
+
+    const sub = document.createElement('span');
+    sub.className = 'btn__note';
+    sub.textContent = note;
+
+    b.append(row, sub);
+    b.addEventListener('click', onClick);
+    return b;
+  };
+
+  const mixedButton = makeButton(
+    'All topics',
+    `${Math.min(CONFIG.practiceLength, pool.length)} random questions from everywhere`,
+    true,
+    () => startPractice(null),
+    'Recommended'
+  );
+  mixedBox.appendChild(mixedButton);
+  mixedButton.id = 'btn-topic-mixed';
+
+  categories.forEach((cat) => {
+    const count = pool.filter((q) => q.category === cat).length;
+    const n = Math.min(CONFIG.practiceLength, count);
+    listBox.appendChild(makeButton(
+      cat,
+      count <= CONFIG.practiceLength ? `${count} question${count === 1 ? '' : 's'} total` : `${n} questions`,
+      false,
+      () => startPractice(cat)
+    ));
+  });
+}
+
 function show(name) {
   Object.values(screens).forEach((s) => { s.hidden = true; });
   screens[name].hidden = false;
   window.scrollTo(0, 0);
+  if (name === 'topics') {
+    const mixed = el('btn-topic-mixed');
+    if (mixed) mixed.focus();
+  }
 }
 
 /* ---------- running a test ---------- */
 
 function start(which) {
   mode = which;
-  const count = which === 'mock' ? Math.min(CONFIG.mockLength, pool.length) : pool.length;
+  const count = Math.min(CONFIG.mockLength, pool.length);
   const stats = loadStats();
   // Weighted pick decides WHICH questions (biased to weak spots), then a plain
   // shuffle decides the ORDER, so the hardest ones aren't all bunched together.
@@ -191,15 +262,29 @@ function start(which) {
   index = 0;
   answers = [];
 
-  if (which === 'mock') {
-    deadline = Date.now() + CONFIG.mockMinutes * 60 * 1000;
-    el('timer').hidden = false;
-    tick = setInterval(updateTimer, 1000);
-    updateTimer();
-  } else {
-    deadline = null;
-    el('timer').hidden = true;
-  }
+  deadline = Date.now() + CONFIG.mockMinutes * 60 * 1000;
+  el('timer').hidden = false;
+  tick = setInterval(updateTimer, 1000);
+  updateTimer();
+
+  show('quiz');
+  render();
+}
+
+function startPractice(category) {
+  mode = 'practice';
+  lastCategory = category;
+
+  const source = category ? pool.filter((q) => q.category === category) : pool;
+  const count = Math.min(CONFIG.practiceLength, source.length);
+  const stats = loadStats();
+  const chosen = weightedSample(source, count, stats);
+  paper = shuffle(chosen).map(prepare);
+  index = 0;
+  answers = [];
+
+  deadline = null;
+  el('timer').hidden = true;
 
   show('quiz');
   render();
@@ -323,7 +408,14 @@ function finish() {
   const needed = Math.ceil(paper.length * CONFIG.passRatio);
   const passed = right >= needed;
 
-  recordAttempt({ date: Date.now(), mode, right, total: paper.length, passed });
+  recordAttempt({
+    date: Date.now(),
+    mode,
+    category: mode === 'practice' ? lastCategory : null,
+    right,
+    total: paper.length,
+    passed
+  });
 
   const score = el('score');
   score.textContent = `${right}/${paper.length}`;
@@ -365,10 +457,14 @@ function finish() {
 /* ---------- wiring ---------- */
 
 el('btn-mock').addEventListener('click', () => start('mock'));
-el('btn-practice').addEventListener('click', () => start('practice'));
+el('btn-practice').addEventListener('click', () => show('topics'));
+el('btn-topics-back').addEventListener('click', () => show('start'));
 el('btn-next').addEventListener('click', advance);
 el('btn-quit').addEventListener('click', finish);
-el('btn-again').addEventListener('click', () => start(mode));
+el('btn-again').addEventListener('click', () => {
+  if (mode === 'mock') start('mock');
+  else show('topics');
+});
 el('btn-home').addEventListener('click', () => { renderHistory(); show('start'); });
 
 el('btn-mock').disabled = true;

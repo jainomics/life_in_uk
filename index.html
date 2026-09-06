@@ -36,7 +36,7 @@
         <span class="btn__note" id="mock-note">24 questions, 45 minutes</span>
       </button>
       <button class="btn" id="btn-practice" type="button">
-        Practise question by question
+        Practise by topic
         <span class="btn__note" id="practice-note">No timer, feedback as you go</span>
       </button>
     </div>
@@ -52,6 +52,19 @@
       <h2 class="history__heading">Recent attempts</h2>
       <ul class="history__list" id="history-list"></ul>
     </div>
+  </section>
+
+  <!-- ---------- Topic picker ---------- -->
+  <section id="screen-topics" class="screen" hidden>
+    <h1>Pick a topic</h1>
+    <p class="lede">Ten questions, weighted toward what you've missed before.</p>
+
+    <div class="modes" id="topic-mixed"></div>
+
+    <p class="topic-divider">Or focus on one topic</p>
+    <div class="modes topic-grid" id="topic-list"></div>
+
+    <button class="btn btn--quiet" id="btn-topics-back" type="button">Back</button>
   </section>
 
   <!-- ---------- Quiz ---------- -->
